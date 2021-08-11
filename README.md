@@ -1,6 +1,4 @@
-# IBM-Full-Stack-Cloud-Developer-Professional-Certificate
-
-## About this Professional Certificate
+# About this Professional Certificate
 
 This Professional Certificate will equip you with all the key skills and technical know-how to kickstart your career as a Full-Stack Cloud Native Application Developer. Guided by experts at IBM, you will learn to build your own cloud-based applications and practice working with the technologies behind them. This program consists of 10 courses with ample instructional content as well as hands-on exercises and projects designed to hone your skills and help you build your portfolio. 
 
@@ -10,7 +8,7 @@ The courses in this program will help you develop skill sets in a variety of tec
 
 After completing all the courses in the program, including the capstone project, you will have developed several applications using front-end and back-end technologies and deployed them on a cloud platform using Cloud Native methodologies.
 
-## Applied Learning Project
+# Applied Learning Project
 Throughout the 10 courses in the Professional Certificate you will develop a portfolio of hands-on projects involving various popular technologies and programming languages in Full Stack Cloud Application Development. 
 
 These include publishing HTML pages on Cloud Object Storage; creating an interest rate calculator using HTML, CSS, & JavaScript, an AI program deployed on Cloud Foundry using DevOps principles & CI/CD toolchains with a NoSQL database, a Node.js and React application, a containerized guestbook app packaged with Docker deployed with Kubernetes & managed with OpenShift, a Python app bundled as a package, a RDBMS powered application using Django ORM and Bootstrap, and an app built using Microservices & Serverless; and completing a Capstone Project that leverages several technologies into a single scalable Cloud Native Full Stack application. 
