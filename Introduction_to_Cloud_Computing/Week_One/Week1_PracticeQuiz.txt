@@ -1,1 +1,54 @@
-Practice Quiz1. Which cloud deployment model lets users use multiple cloud models working together seamlessly?  Private* Hybrid  Public  Broad Network Access2. What 1950s technology helped evolve to Virtual Machines (VMs)?* Shared access of a mainframe  Measured service  Broad network access3. What are some cloud computing benefits? Select two.  Diversity of standardization in how the constantly evolving technologies integrate and interoperate.   Purchasing off-the-shelf software and upgrades* Competitive advantage* Flexibility and efficiency4. Which of these vendors are known more for their SaaS offerings?  Alibaba Cloud  Amazon Web Services* Salesforce, SAP, Oracle Cloud  Intel5. According to the International Data Corporation (IDC), what is that crucial ability that will make cloud computing essential for businesses to succeed, sustain, and compete in today¡¯s markets?* Data-driven decisions  Multi-cloud infrastructures  Applied exponential technologies such as AI, Automation, IoT, and Blockchain  Cognitively-enabled workflows6. How did UBank leverage the cloud to remove barriers to innovation?* By adopting a PaaS cloud development model to streamline development and empower product teams  By modernizing their customer-facing apps based on monolithic code into cloud-native based microservices architecture on the cloud  By establishing a scalable hosting platform for low-latency delivery to enterprise customers around the world  By migrating their trading systems from on-premises infrastructure to IBM Cloud for VMware solutions7. How does Cloud Computing help IoT devices? Select two.* Minimize latency in reporting and responding to data collected through IoT sensors from around the world  Draw insights from data collected from the IoT devices and users* Provide the resources to store and process the data produced by IoT devices and users  Provide a fixed physical location for the data collected from IoT devices8. Which of these statements best reflects the symbiotic relationship between AI and IoT on the Cloud?* AI consumes data produced by IoT devices. Based on conclusions drawn by AI algorithms on patterns emerging this data, IoT devices learn to anticipate user actions based on past actions and respond to them based on their preferences.  AI helps make sense of the endless streams of data from IoT devices  AI consumes the data produced by IoT devices and users.  AI and IoT platforms leverage the power, scale, dynamic nature, and economics of the cloud resources.9. How does Blockchain support AI?* Blockchain provides the trusted, decentralized source of truth lending trust and transparency to the decisions made by AI algorithms.  Blockchain provides an immutable network allowing members to view only those transactions that are relevant to them.  Lends trust and transparency to AI by recording the data and variables that go into a decision made in an AI algorithm.  Globally distributed, scalable, and cost-efficient computing resources.
+Practice Quiz
+
+1. Which cloud deployment model lets users use multiple cloud models working together seamlessly?
+  Private
+* Hybrid
+  Public
+  Broad Network Access
+
+2. What 1950s technology helped evolve to Virtual Machines (VMs)?
+* Shared access of a mainframe
+  Measured service
+  Broad network access
+
+3. What are some cloud computing benefits? Select two.
+  Diversity of standardization in how the constantly evolving technologies integrate and interoperate. 
+  Purchasing off-the-shelf software and upgrades
+* Competitive advantage
+* Flexibility and efficiency
+
+4. Which of these vendors are known more for their SaaS offerings?
+  Alibaba Cloud
+  Amazon Web Services
+* Salesforce, SAP, Oracle Cloud
+  Intel
+
+5. According to the International Data Corporation (IDC), what is that crucial ability that will make cloud computing essential for businesses to succeed, sustain, and compete in today's markets?
+* Data-driven decisions
+  Multi-cloud infrastructures
+  Applied exponential technologies such as AI, Automation, IoT, and Blockchain
+  Cognitively-enabled workflows
+
+6. How did UBank leverage the cloud to remove barriers to innovation?
+* By adopting a PaaS cloud development model to streamline development and empower product teams
+  By modernizing their customer-facing apps based on monolithic code into cloud-native based microservices architecture on the cloud
+  By establishing a scalable hosting platform for low-latency delivery to enterprise customers around the world
+  By migrating their trading systems from on-premises infrastructure to IBM Cloud for VMware solutions
+
+7. How does Cloud Computing help IoT devices? Select two.
+* Minimize latency in reporting and responding to data collected through IoT sensors from around the world
+  Draw insights from data collected from the IoT devices and users
+* Provide the resources to store and process the data produced by IoT devices and users
+  Provide a fixed physical location for the data collected from IoT devices
+
+8. Which of these statements best reflects the symbiotic relationship between AI and IoT on the Cloud?
+* AI consumes data produced by IoT devices. Based on conclusions drawn by AI algorithms on patterns emerging this data, IoT devices learn to anticipate user actions based on past actions and respond to them based on their preferences.
+  AI helps make sense of the endless streams of data from IoT devices
+  AI consumes the data produced by IoT devices and users.
+  AI and IoT platforms leverage the power, scale, dynamic nature, and economics of the cloud resources.
+
+9. How does Blockchain support AI?
+* Blockchain provides the trusted, decentralized source of truth lending trust and transparency to the decisions made by AI algorithms.
+  Blockchain provides an immutable network allowing members to view only those transactions that are relevant to them.
+  Lends trust and transparency to AI by recording the data and variables that go into a decision made in an AI algorithm.
+  Globally distributed, scalable, and cost-efficient computing resources.
