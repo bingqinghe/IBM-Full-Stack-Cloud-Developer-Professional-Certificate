@@ -21,7 +21,7 @@ In this module, you will learn about the definition and essential characteristic
 
 You will also learn about the evolution of cloud computing, the business case for cloud adoption, and how some of the emerging technologies are being supported by cloud computing.
 
-## Week Two: Cloud Computing Models
+## Week Two: [Cloud Computing Models](./Week_Two)
 This week you will learn about the different types of service and deployment models of cloud computing. 
 
 In this module, you will learn about the three main service models available on the cloud—Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), and Software-as-a-Service (SaaS). 
