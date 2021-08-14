@@ -12,7 +12,7 @@ This course is suitable for a large variety of audiences - whether you are an ex
 
 The completion of this course also makes you eligible to earn the Cloud Computing Core IBM digital badge.  More information about the badge can be found here: https://www.youracclaim.com/org/ibm/badge/introduction-to-cloud-computing
 
-## Week One: Overview of Cloud Computing
+## Week One: [Overview of Cloud Computing](./Week_One)
 This week you will learn about the definition and essential characteristics of cloud computing. 
 
 You will learn about the evolution of cloud computing, the emerging technologies supported by cloud, and the business case for cloud computing.
