@@ -1,1 +1,61 @@
-Module 3 Graded Quiz1. Each Cloud Region can have multiple Zones (also known as Availability Zones). What are Zones?  Standardized containers of computing resources* Unique physical locations with one or more data centers  Geographic area or region where cloud provider¨s infrastructure is clustered  Single shared point of failure2. Is it possible to run completely different operating systems on Virtual Machines (VMs) that are on a single host? If yes, what makes this possible?  No, it is not possible！A single host can only work as one single virtual environment, and can, therefore, have only one environment.  Yes, Containerization makes it possible！to have VMs that are unique physical entities, so you can have completely different Operating Systems on them.  No, it is not possible！VMs are software-based versions of a single host. They cannot have different environments from one another.* Yes, Virtualization makes it possible！ to have VMs, running different operating systems, on a single host.3. Which of the following are examples of single-tenant compute environments in the Cloud? Select two.  Transient virtual servers  Reserved virtual server* Dedicated host* Bare Metal servers4. Which of these scenarios is ideal for the use of bare metal servers, as opposed to virtual servers? Select two.* Huge performance and strict security and compliance requirements   Workloads that require limited throughput and performance   Low cost to use * CPU and I/O intensive workloads5. What are some key differences between Containers and Virtual Machines? Select two.  Containers are executable units of software while each virtual machine is a distinct physical entity  Even though each container uses the same OS as the host OS, it still needs to have its own copy of the OS, while a virtual machine leverages the resources of the host OS* Containers are more lightweight as compared to virtual machines* Containers can use the same OS as the host, while a virtual machine needs its own copy of the OS, which can also be different from the host OS6. There are four types of cloud storage available. Which storage type is ephemeral or non-persistent?  Object storage  File storage  Block storage* Direct Attached storage7. What makes File storage an ideal solution for scenarios where shared storage is needed?  Its consistently high speed* File storage can be mounted on multiple compute nodes at the same time  Mounted from remote storage appliances  File Storage is mounted to compute nodes via an ethernet network8. Which of these scenarios are best suited for Block Storage? Select two.* Applications that need consistent fast access to disk, such as databases   Low cost is a consideration* Workloads that need low-latency storage  Workloads that need disk sharing between compute nodes 9. Which of these are features of Object Storage? Select two.* Object storage is effectively infinite   Storage is attached to compute nodes using a fibre network* You can directly use Object Storage without attaching it to a compute node  Object Storage can be mounted on multiple compute nodes via an ethernet network 10. What is the main benefit of a Content Delivery Network (CDN)?  Network topology  Distribute tasks, workloads, and network traffic* Speed, it makes your website faster by serving files from a location closer to the user.  Enhanced control over network traffic by routing traffic to specified resources
+Module 3 Graded Quiz
+
+1. Each Cloud Region can have multiple Zones (also known as Availability Zones). What are Zones?
+  Standardized containers of computing resources
+* Unique physical locations with one or more data centers
+  Geographic area or region where cloud provider's infrastructure is clustered
+  Single shared point of failure
+
+2. Is it possible to run completely different operating systems on Virtual Machines (VMs) that are on a single host? If yes, what makes this possible?
+  No, it is not possible - A single host can only work as one single virtual environment, and can, therefore, have only one environment.
+  Yes, Containerization makes it possible - to have VMs that are unique physical entities, so you can have completely different Operating Systems on them.
+  No, it is not possible - VMs are software-based versions of a single host. They cannot have different environments from one another.
+* Yes, Virtualization makes it possible - to have VMs, running different operating systems, on a single host.
+
+3. Which of the following are examples of single-tenant compute environments in the Cloud? Select two.
+  Transient virtual servers
+  Reserved virtual server
+* Dedicated host
+* Bare Metal servers
+
+4. Which of these scenarios is ideal for the use of bare metal servers, as opposed to virtual servers? Select two.
+* Huge performance and strict security and compliance requirements 
+  Workloads that require limited throughput and performance 
+  Low cost to use 
+* CPU and I/O intensive workloads
+
+5. What are some key differences between Containers and Virtual Machines? Select two.
+  Containers are executable units of software while each virtual machine is a distinct physical entity
+  Even though each container uses the same OS as the host OS, it still needs to have its own copy of the OS, while a virtual machine leverages the resources of the host OS
+* Containers are more lightweight as compared to virtual machines
+* Containers can use the same OS as the host, while a virtual machine needs its own copy of the OS, which can also be different from the host OS
+
+6. There are four types of cloud storage available. Which storage type is ephemeral or non-persistent?
+  Object storage
+  File storage
+  Block storage
+* Direct Attached storage
+
+7. What makes File storage an ideal solution for scenarios where shared storage is needed?
+  Its consistently high speed
+* File storage can be mounted on multiple compute nodes at the same time
+  Mounted from remote storage appliances
+  File Storage is mounted to compute nodes via an ethernet network
+
+8. Which of these scenarios are best suited for Block Storage? Select two.
+* Applications that need consistent fast access to disk, such as databases 
+  Low cost is a consideration
+* Workloads that need low-latency storage
+  Workloads that need disk sharing between compute nodes 
+
+9. Which of these are features of Object Storage? Select two.
+* Object storage is effectively infinite 
+  Storage is attached to compute nodes using a fibre network
+* You can directly use Object Storage without attaching it to a compute node
+  Object Storage can be mounted on multiple compute nodes via an ethernet network 
+
+10. What is the main benefit of a Content Delivery Network (CDN)?
+  Network topology
+  Distribute tasks, workloads, and network traffic
+* Speed, it makes your website faster by serving files from a location closer to the user.
+  Enhanced control over network traffic by routing traffic to specified resources
