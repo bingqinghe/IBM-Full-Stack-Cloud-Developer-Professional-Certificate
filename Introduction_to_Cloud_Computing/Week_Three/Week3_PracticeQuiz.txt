@@ -1,1 +1,73 @@
-Practice Quiz1. The infrastructure layer is the foundation of the cloud and consists of physical resources. Where do these physical resources reside? * Regions, Zones, and Data Centers  In a warehouse that houses a centralized mainframe server  Compute, Storage, and Networking Resources   Virtual Servers, Bare Metal Servers, and Serverless computing resources2. Virtualization is the process of creating a software-based or virtual version of something. What is typically created with virtualization in the cloud?  Oracle VirtualBox, VMware Workstation  Windows, Linux, UNIX   VMware ESX and ESXI, Microsoft Hyper-V, open-source KVM * Servers, storage devices, networking resources, and applications 3. Which type of Virtual Machine (VM) takes advantage of unused capacity in data centers at a much lower cost than regular VMs of similar sizes?  Shared or Public Cloud VMs  Dedicated hosts* Transient or Spot VMs  Reserved virtual servers4. Why do bare metal servers take longer to provision than virtual servers?  Customer configures the physical servers   They're multi-tenant servers, and all tenants must help configure them * They are physical servers that can be customized to specified capacity  GPUs for data analytics are hard to configure and provision 5. Which part of a logically segmented cloud network is the main area where security is implemented?  Logical instances of networking elements  Load balancers* Subnets  Networking spaces6. What benefits do runtime engines provide to containers?  Serves as an interface between the VM and underlying physical hardware  Allows multiple OS and applications to run simultaneously and share resources* Share the operating system (OS) with other containers   Uses device drivers targeting the abstract machine7. There are four main types of cloud storage available. Which storage type is sometimes called "Local Storage"?  File Storage* Direct Attached  Object Storage  Block Storage8. What is File Storage sometimes called?  Remote storage appliances  Ethernet  COS* NFS9. Which of these statements is true of File Storage but not Object Storage? Select two.* Storage is attached to compute nodes using an ethernet network* Based on the load, speed of the connecting network can be inconsistent  Highly resilient and available  Include data encryption at rest and in transit10. Which of the following is NOT a good fit for Object Storage?  Storage needs are finite and can be pre-defined* Operating systems or applications like databases  Data that does not require fast read and write speeds  Files or objects that are static 11. What is a standard tier bucket in Object Storage typically used for?  Storing data that is typically accessed only once or twice a year  Supporting applications that need consistent fast access to disk, such as databases* Storing objects that are frequently accessed  Storing objects that are only accessed once or twice a month or less12. What is a Content Delivery Network (CDN)?  A network node* A distributed server network  A network link  Network topology
+Practice Quiz
+
+1. The infrastructure layer is the foundation of the cloud and consists of physical resources. Where do these physical resources reside? 
+* Regions, Zones, and Data Centers
+  In a warehouse that houses a centralized mainframe server
+  Compute, Storage, and Networking Resources 
+  Virtual Servers, Bare Metal Servers, and Serverless computing resources
+
+2. Virtualization is the process of creating a software-based or virtual version of something. What is typically created with virtualization in the cloud?
+  Oracle VirtualBox, VMware Workstation
+  Windows, Linux, UNIX 
+  VMware ESX and ESXI, Microsoft Hyper-V, open-source KVM 
+* Servers, storage devices, networking resources, and applications 
+
+3. Which type of Virtual Machine (VM) takes advantage of unused capacity in data centers at a much lower cost than regular VMs of similar sizes?
+  Shared or Public Cloud VMs
+  Dedicated hosts
+* Transient or Spot VMs
+  Reserved virtual servers
+
+4. Why do bare metal servers take longer to provision than virtual servers?
+  Customer configures the physical servers 
+  They're multi-tenant servers, and all tenants must help configure them 
+* They are physical servers that can be customized to specified capacity
+  GPUs for data analytics are hard to configure and provision 
+
+5. Which part of a logically segmented cloud network is the main area where security is implemented?
+  Logical instances of networking elements
+  Load balancers
+* Subnets
+  Networking spaces
+
+6. What benefits do runtime engines provide to containers?
+  Serves as an interface between the VM and underlying physical hardware
+  Allows multiple OS and applications to run simultaneously and share resources
+* Share the operating system (OS) with other containers 
+  Uses device drivers targeting the abstract machine
+
+7. There are four main types of cloud storage available. Which storage type is sometimes called "Local Storage"?
+  File Storage
+* Direct Attached
+  Object Storage
+  Block Storage
+
+8. What is File Storage sometimes called?
+  Remote storage appliances
+  Ethernet
+  COS
+* NFS
+
+9. Which of these statements is true of File Storage but not Object Storage? Select two.
+* Storage is attached to compute nodes using an ethernet network
+* Based on the load, speed of the connecting network can be inconsistent
+  Highly resilient and available
+  Include data encryption at rest and in transit
+
+10. Which of the following is NOT a good fit for Object Storage?
+  Storage needs are finite and can be pre-defined
+* Operating systems or applications like databases
+  Data that does not require fast read and write speeds
+  Files or objects that are static 
+
+11. What is a standard tier bucket in Object Storage typically used for?
+  Storing data that is typically accessed only once or twice a year
+  Supporting applications that need consistent fast access to disk, such as databases
+* Storing objects that are frequently accessed
+  Storing objects that are only accessed once or twice a month or less
+
+12. What is a Content Delivery Network (CDN)?
+  A network node
+* A distributed server network
+  A network link
+  Network topology
