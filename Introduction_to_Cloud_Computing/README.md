@@ -30,7 +30,7 @@ You will also learn about the three main deployment models available on the clou
 
 At the end of the module, you will create an account on IBM Cloud.
 
-## Week Three: Components of Cloud Computing
+## Week Three: [Components of Cloud Computing](./Week_Three)
 This week you will learn about the various components of a cloud computing architecture, such as virtualization virtual machines, bare metal servers, and the difference between virtual machines and bare metal servers. 
 
 You will learn how to build a secure cloud networking presence, how container-based technologies work, and the benefits of a Content Delivery Network. 
