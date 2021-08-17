@@ -37,7 +37,7 @@ You will learn how to build a secure cloud networking presence, how container-ba
 
 We will also familiarize you with the four main types of cloud storage.
 
-## Week Four: Emergent Trends and Practices
+## Week Four: [Emergent Trends and Practices](./Week_Four)
 This week you will learn about some of the emergent trends in cloud computing, such as Hybrid Multicloud, Serverless Computing, and Microservices. 
 
 You will also learn about how cloud native applications work, the role of DevOps in addressing some of the complexities of cloud computing, and the components of application modernization.
