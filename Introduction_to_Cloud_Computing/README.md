@@ -42,7 +42,7 @@ This week you will learn about some of the emergent trends in cloud computing, s
 
 You will also learn about how cloud native applications work, the role of DevOps in addressing some of the complexities of cloud computing, and the components of application modernization.
 
-## Week Five: Cloud Security and Monitoring, Case Studies, and Jobs
+## Week Five: [Cloud Security and Monitoring, Case Studies, and Jobs](./Week_Five)
 This week you will learn about some of the elements of cloud security, including Identity and Access Management, and Cloud Encryption. 
 
 You will also learn about how organizations can leverage cloud monitoring solutions to optimize business benefits. 
