@@ -10,7 +10,7 @@ You’ll then focus on the languages you need for front-end development, working
 
 Finally, you will discover tools that help you to store your projects and keep track of changes made to project files, such as Git and GitHub.
 
-## Week One: Introduction to Programming for the Cloud
+## Week One: [Introduction to Programming for the Cloud](./Week_One)
 Learn what Cloud Application development involves from the very beginning. 
 
 Discover the languages, frameworks, and tools, that enable you to create interactive and engaging websites and Cloud Applications, right from the very beginning. 
