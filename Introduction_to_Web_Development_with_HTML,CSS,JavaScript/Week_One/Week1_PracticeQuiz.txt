@@ -1,1 +1,25 @@
-Practice Quiz1. Who is more likely to work with databases?    Front-end developer* Back-end developer2. Which of the following do version control systems help you to keep track of? (Select all that apply) * What changes were made to the code   Debugging the errors in the code* When the changes were made* Who made the changes3. Which of the following is not a development framework?   Angular* Git   Vue.js   Django4. Which process automatically builds and tests your code?  * CI (Continuous Integration)   CD (Continuous Delivery)5. True or False: JavaScript can be used for both front-end and back-end development.  * True  False
+Practice Quiz
+
+1. Who is more likely to work with databases?  
+  Front-end developer
+* Back-end developer
+
+2. Which of the following do version control systems help you to keep track of? (Select all that apply) 
+* What changes were made to the code 
+  Debugging the errors in the code
+* When the changes were made
+* Who made the changes
+
+3. Which of the following is not a development framework? 
+  Angular
+* Git 
+  Vue.js 
+  Django
+
+4. Which process automatically builds and tests your code?  
+* CI (Continuous Integration) 
+  CD (Continuous Delivery)
+
+5. True or False: JavaScript can be used for both front-end and back-end development.  
+* True
+  False
