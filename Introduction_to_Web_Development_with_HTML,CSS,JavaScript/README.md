@@ -26,7 +26,7 @@ Foremost among these is HyperText Markup Language (HTML). A good understanding o
 
 Once you have mastered creating the basic structure of a website with HTML, you can add style with Cascading Style Sheets (CSS), which enables you to make your websites more attractive by adding a consistent style and design throughout.
 
-## Week Three: HTML5 Elements
+## Week Three: [HTML5 Elements](./Week_Three)
 HTML5 has many elements that enable developers to create well-structured and varied websites. 
 
 These HTML5 elements provide ways to separate an HTML document into divisions, create headers and footers, define sections, create headings, and delineate the body of the document. 
