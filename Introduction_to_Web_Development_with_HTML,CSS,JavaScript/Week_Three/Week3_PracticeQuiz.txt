@@ -1,1 +1,31 @@
-Practice Quiz1. Which tag can be used to show or hide information or controls in a document?  <mark>  <datalist>  <section>* <details>2. Which of the following tags is used to separate areas in a document?    <nav>  <body>* <div>  <input>3. Which tag is used to represent an independent item of content in a document?    <details>* <article>  <div>  <section>4. Which?tag is used to specify self-contained content like an image, illustration, or diagram?    <figcaption>* <figure>  <img>  <image>5. Which type of input control can be used to accept only numbers in a form?  * number  tel  digit  integer
+Practice Quiz
+
+1. Which tag can be used to show or hide information or controls in a document?
+  <mark>
+  <datalist>
+  <section>
+* <details>
+
+2. Which of the following tags is used to separate areas in a document?  
+  <nav>
+  <body>
+* <div>
+  <input>
+
+3. Which tag is used to represent an independent item of content in a document?  
+  <details>
+* <article>
+  <div>
+  <section>
+
+4. Which?tag is used to specify self-contained content like an image, illustration, or diagram?  
+  <figcaption>
+* <figure>
+  <img>
+  <image>
+
+5. Which type of input control can be used to accept only numbers in a form?  
+* number
+  tel
+  digit
+  integer
