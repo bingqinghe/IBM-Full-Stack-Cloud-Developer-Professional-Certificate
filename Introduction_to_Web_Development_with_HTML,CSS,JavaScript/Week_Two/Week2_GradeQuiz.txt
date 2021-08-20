@@ -1,1 +1,61 @@
-Graded Quiz1. Which of the following statements embeds an image in an HTML document?   <image>link_to_image</image>  <figure src=°±image URL°± alt=°±alternate text°±>image name</figure>* <img src=°±image URL°± alt=°±alternate text°±>  <img href=°±image URL°± alt =°±alternate text°±>image name</img>2. When defining a hyperlink (< a >), which attribute is used to specify the destination address?    src* href  target  ref3. How are comments written in HTML?  °∞°±°±This is a comment°±°±°±  /*This is a comment*/    #This is a comment  * < !-- This is a comment -- >  4. Which tag preserves the spaces and line breaks of a given text when displayed?  * <pre>  <section>   <label>  <p>5. Which style is given priority, when multiple styles are specified for a single element?   Browser default* Inline style  Internal style sheet  External style sheet6. Which tag CANNOT be used as a container for text?  <h1>* <br>  <body>  <p>7. What is the <br> tag used for?* To add a line break   To change the border  To change the text color to brown  To make text bold8. Which is the universal selector in CSS?  #  ?* *  @9. Which tag is used to create an ordered list?   <orderedlist>  <ul>* <ol>  <li>10. Which selector helps to select all elements of a document, except paragraphs?  :!(p)* :not(p)  :n(p)  :except(p)
+Graded Quiz
+
+1. Which of the following statements embeds an image in an HTML document? 
+  <image>link_to_image</image>
+  <figure src=‚Äùimage URL‚Äù alt=‚Äùalternate text‚Äù>image name</figure>
+* <img src=‚Äùimage URL‚Äù alt=‚Äùalternate text‚Äù>
+  <img href=‚Äùimage URL‚Äù alt =‚Äùalternate text‚Äù>image name</img>
+
+2. When defining a hyperlink (< a >), which attribute is used to specify the destination address?  
+  src
+* href
+  target
+  ref
+
+3. How are comments written in HTML?
+  ‚Äú‚Äù‚ÄùThis is a comment‚Äù‚Äù‚Äù
+  /*This is a comment*/  
+  #This is a comment  
+* < !-- This is a comment -- >  
+
+4. Which tag preserves the spaces and line breaks of a given text when displayed?  
+* <pre>
+  <section> 
+  <label>
+  <p>
+
+5. Which style is given priority, when multiple styles are specified for a single element? 
+  Browser default
+* Inline style
+  Internal style sheet
+  External style sheet
+
+6. Which tag CANNOT be used as a container for text?
+  <h1>
+* <br>
+  <body>
+  <p>
+
+7. What is the <br> tag used for?
+* To add a line break 
+  To change the border
+  To change the text color to brown
+  To make text bold
+  
+8. Which is the universal selector in CSS?
+  #
+  ?
+* *
+  @
+
+9. Which tag is used to create an ordered list? 
+  <orderedlist>
+  <ul>
+* <ol>
+  <li>
+
+10. Which selector helps to select all elements of a document, except paragraphs?
+  :!(p)
+* :not(p)
+  :n(p)
+  :except(p)
