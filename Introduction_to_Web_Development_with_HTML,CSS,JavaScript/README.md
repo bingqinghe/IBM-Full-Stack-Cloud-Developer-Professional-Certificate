@@ -19,7 +19,7 @@ In this module, you will learn about the roles of front-end, back-end, and full-
 
 It is recommended that learners practice outside of the course to become proficient. The labs are intended as an introduction to the basics.
 
-## Week Two: HTML5 and CSS Overview
+## Week Two: [HTML5 and CSS Overview](./Week_Two)
 The most fundamental tools for front-end developers are the languages they use for developing the website or app. 
 
 Foremost among these is HyperText Markup Language (HTML). A good understanding of HTML, its features, support, and scripting capabilities, makes a solid foundation on which to build your development skills. 
