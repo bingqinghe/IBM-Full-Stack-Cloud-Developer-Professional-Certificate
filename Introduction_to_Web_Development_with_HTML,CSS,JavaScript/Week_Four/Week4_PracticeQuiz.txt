@@ -1,1 +1,29 @@
-Practice Quiz1. True or False: JavaScript is a subset of Java.    True* False2. Which of the following statements is the correct way to define a function in JavaScript?  * function myFunction() { }    function = myFunction() { }    function myFunction { }    function = new function(myfunction)  3. Which of the following statements is the correct way to include a script in an HTML?    <include script = ¡°/source/script.js¡±> </script>    <script name = ¡°/source/script.js¡±> </script>    <script ref= ¡°/source/script.js¡±> </script>* <script src = ¡°/source/script.js¡±> </script> 4. Which object in the browser DOM model contains the information about the URL of a page?  browser.document  browser.url* window.location  window.address5. Which property is used to set the content within an HTML element?  * element.innerHTML    element.data    element.content    element.html  
+Practice Quiz
+
+1. True or False: JavaScript is a subset of Java.  
+  True
+* False
+
+2. Which of the following statements is the correct way to define a function in JavaScript?  
+* function myFunction() { }  
+  function = myFunction() { }  
+  function myFunction { }  
+  function = new function(myfunction)  
+
+3. Which of the following statements is the correct way to include a script in an HTML?  
+  <include script = "/source/script.js"> </script>  
+  <script name = "/source/script.js"> </script>  
+  <script ref= "/source/script.js"> </script>
+* <script src = "/source/script.js"> </script> 
+
+4. Which object in the browser DOM model contains the information about the URL of a page?
+  browser.document
+  browser.url
+* window.location
+  window.address
+
+5. Which property is used to set the content within an HTML element?  
+* element.innerHTML  
+  element.data  
+  element.content  
+  element.html
