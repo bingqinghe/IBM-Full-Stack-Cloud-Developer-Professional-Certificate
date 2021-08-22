@@ -35,7 +35,7 @@ In addition, there are many HTML5 elements that allow the user to interact with 
 
 To be able to create the structure you want for your site, you must be familiar with some of these elements.
 
-## Week Four: JavaScript Programming for Web Applications
+## Week Four: [JavaScript Programming for Web Applications](./Week_Four)
 So now you have a website or Cloud App with structure and content from HTML, consistent style from CSS, and a limited amount of interactivity for the user. 
 
 To enhance the user experience and create a real wow factor, you’re going to need JavaScript. With JavaScript, you can make your webpages dynamic, using features like interactive forms, picture slideshows, and sophisticated menu systems.
