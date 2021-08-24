@@ -1,1 +1,31 @@
-Practice Quiz1. Which of the following is a feature of the Git Repository model?    It corrects bad code    It is based on a binary tree    It sorts code into folders  * It tracks source code  2. In GitHub, what is an organization?    A path to the code files in a project    The top level of a repository tree  * An organization is a collection of user accounts that owns repositories    A name you must specify for your repository  3. What is stored on the master branch?  All the project files  Files which contain documentation only* The deployable version of the project code  The original, unchanged version of the code4. When would you fork a project?* To create a copy of a GitHub repository to use as the base for a new project  To add a branch to an existing tree  To give a new user permissions to the project  To create a backup of the master branch5. Which GitHub developer command prepares an email submission?* ¡°git-format-patch¡±   ¡°git-send-email¡±  ¡°git-request-pull¡±  git-request-email
+Practice Quiz
+
+1. Which of the following is a feature of the Git Repository model?  
+  It corrects bad code  
+  It is based on a binary tree  
+  It sorts code into folders  
+* It tracks source code  
+
+2. In GitHub, what is an organization?  
+  A path to the code files in a project  
+  The top level of a repository tree  
+* An organization is a collection of user accounts that owns repositories  
+  A name you must specify for your repository  
+
+3. What is stored on the master branch?
+  All the project files
+  Files which contain documentation only
+* The deployable version of the project code
+  The original, unchanged version of the code
+
+4. When would you fork a project?
+* To create a copy of a GitHub repository to use as the base for a new project
+  To add a branch to an existing tree
+  To give a new user permissions to the project
+  To create a backup of the master branch
+
+5. Which GitHub developer command prepares an email submission?
+* "git-format-patch" 
+  "git-send-email"
+  "git-request-pull"
+  "git-request-email"
