@@ -4,7 +4,7 @@
         <script src="script.js"></script>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
         <link rel="stylesheet" href="style.css">
-        <title> Simple Interest Calculator </title>
+        <title> Web App – Simple Interest Calculator </title>
     </head>
 
     <body>
@@ -20,7 +20,7 @@
                     <tr>
                         <td> Interest Rate: </td>
                         <td>
-                            <input type="range" id="rate" class="form-range" min="1" max="15" step="0.1" value="10" oninput="showValue(this.value)" onchange="showValue(this.value)">
+                            <input type="range" id="rate" class="form-range" min="1" max="20" step="0.1" value="10" oninput="showValue(this.value)" onchange="showValue(this.value)">
                             <span id="showrate"></span>
                         </td>
                     </tr>
@@ -55,7 +55,7 @@
 
                     <tr>
                         <td colspan="2">
-                            <button type="button" class="btn btn-outline-primary" onclick="compute()"> Computer Interest </button>
+                            <button type="button" class="btn btn-outline-primary" onclick="compute()"> Compute Interest </button>
                         </td>
                     </tr>
 
