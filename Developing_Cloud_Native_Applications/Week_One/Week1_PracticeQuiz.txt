@@ -1,1 +1,31 @@
-Practice Quiz1. Which layer of the cloud native stack is conventionally known as middleware?  * Application Runtime   Application and Data Services  Scheduling and Orchestration  Application Code2. What's the first step in the CNCF trail map sequence?  * Containerization  Observability and analysis   Orchestration and application definition   Service Proxy, Discovery, and Mesh3. What is the ultimate result of the app modernization benefits?  Reduce time to cloud  Operational optimization  Reproduction and fixing bugs * Lower costs and developer productiveness4. Which of the TDD benefits leads to loosely coupled modules that work well with each other?    Faster time to production  Continuous delivery model* Developers think of features as small code blocks tested individually  Code is robust and catches failures before deployment5. Public and private clouds can both be hosted by external vendors. What is the main difference between these two clouds?    On-premises (legacy) hardware is private* External vendors maintain hosted private clouds for one organization  Private clouds are physical hardware on the organization's property  Hosted private clouds are maintained by the organization
+Practice Quiz
+
+1. Which layer of the cloud native stack is conventionally known as middleware?  
+* Application Runtime 
+  Application and Data Services
+  Scheduling and Orchestration
+  Application Code
+
+2. What's the first step in the CNCF trail map sequence?  
+* Containerization
+  Observability and analysis 
+  Orchestration and application definition 
+  Service Proxy, Discovery, and Mesh
+
+3. What is the ultimate result of the app modernization benefits?
+  Reduce time to cloud
+  Operational optimization
+  Reproduction and fixing bugs 
+* Lower costs and developer productiveness
+
+4. Which of the TDD benefits leads to loosely coupled modules that work well with each other?  
+  Faster time to production
+  Continuous delivery model
+* Developers think of features as small code blocks tested individually
+  Code is robust and catches failures before deployment
+
+5. Public and private clouds can both be hosted by external vendors. What is the main difference between these two clouds?  
+  On-premises (legacy) hardware is private
+* External vendors maintain hosted private clouds for one organization
+  Private clouds are physical hardware on the organization's property
+  Hosted private clouds are maintained by the organization
