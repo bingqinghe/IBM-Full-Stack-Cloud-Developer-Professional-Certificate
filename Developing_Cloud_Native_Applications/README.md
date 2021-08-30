@@ -10,7 +10,7 @@ Then, you will dive into specific tools and techniques for developing cloud nati
 
 Learning about the Cloud Native Computing Foundation, the significance of hybrid cloud infrastructures, and how they affect cloud app developers will be covered You will then look at two key areas of cloud thinking: modernization and continuous integration/continuous delivery.
 
-## Week One: Introduction to Cloud Native
+## Week One: [Introduction to Cloud Native](./Week_One)
 Do you want to learn about developing applications that are cloud native right from conception to implementation? 
 
 In this module, you’ll begin with some crucial cloud concepts. 
