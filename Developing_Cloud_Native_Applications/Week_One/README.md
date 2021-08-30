@@ -24,12 +24,16 @@ Continue your journey to certify as an IBM Cloud developer.
 
 Learn about IBM Cloud and the components that you can build within it. 
 
-Gain knowledge about building, deploying, testing, and running web applications in IBM Cloud and mobile applications outside IBM Cloud. Build expertise to recognize when to use predefined services hosted by IBM Cloud and when to create custom services to bind with your applications.
+Gain knowledge about building, deploying, testing, and running web applications in IBM Cloud and mobile applications outside IBM Cloud. 
+
+Build expertise to recognize when to use predefined services hosted by IBM Cloud and when to create custom services to bind with your applications.
 
 ## Week Three: IBM Cloud CLI
 Learn about using command-line interface (CLIs) to develop, test, and deploy applications and services for both IBM Cloud and Cloud Foundry. 
 
-You’ll gain career skills by deploying Node.js applications on IBM Cloud. You will realize the benefits of using lightweight, powerful tools like IBM Cloud CLI or Cloud Foundry CLI to manage all cloud resources.
+You’ll gain career skills by deploying Node.js applications on IBM Cloud. 
+
+You will realize the benefits of using lightweight, powerful tools like IBM Cloud CLI or Cloud Foundry CLI to manage all cloud resources.
 
 ## Week Four: DevOps on IBM Cloud
 How does the DevOps software methodology integrate cloud application development and IT operations? 
@@ -38,7 +42,9 @@ Discover how you can use DevOps tools for application development and maintenanc
 
 Explore the features of a continuous delivery service. 
 
-Learn the steps for enabling integrated continuous delivery toolchains to automate application builds, deployment, and monitoring. Build your knowledge of cloud application development features including the IBM Cloud web integrated environment (Web IDE), Git repository and issue tracker, and Delivery Pipeline.
+Learn the steps for enabling integrated continuous delivery toolchains to automate application builds, deployment, and monitoring. 
+
+Build your knowledge of cloud application development features including the IBM Cloud web integrated environment (Web IDE), Git repository and issue tracker, and Delivery Pipeline.
 
 ## Week Five: REST Architecture and Watson API
 What is Representational State Transfer (REST)? 
