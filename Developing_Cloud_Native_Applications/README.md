@@ -19,7 +19,7 @@ Then, you will dive into specific tools and techniques for developing cloud nati
 
 Learning about the Cloud Native Computing Foundation, the significance of hybrid cloud infrastructures, and how they affect cloud app developers will be covered You will then look at two key areas of cloud thinking: modernization and continuous integration/continuous delivery.
 
-## Week Two: Getting Started with IBM Cloud
+## Week Two: [Getting Started with IBM Cloud](./Week_Two)
 Continue your journey to certify as an IBM Cloud developer. 
 
 Learn about IBM Cloud and the components that you can build within it. 
