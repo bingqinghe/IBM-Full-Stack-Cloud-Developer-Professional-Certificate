@@ -1,1 +1,31 @@
-Module 2 Practice Quiz1. What is one of the ways that IBM Cloud catalog organizes resources into categories?  Programming language  Access control* Type of resource   Runtimes2. What do containers and virtual servers have in common?  Hypervisor  Docker engine  Guest OS* Physical hardware3. What is part of the contents of starter kits?  API keys and service passwords* Skeleton template to start coding your application  Tutorials  Cloud credits4. What information is not shown on the Cloud Foundry application detail page?  Number of unique user connections to your application* Application URL  Memory and space used  Runtime cost5. What is the primary use of resource groups?  Group access* User access to multiple resources  Regional access  Change account information
+Module 2 Practice Quiz
+
+1. What is one of the ways that IBM Cloud catalog organizes resources into categories?
+  Programming language
+  Access control
+* Type of resource 
+  Runtimes
+
+2. What do containers and virtual servers have in common?
+  Hypervisor
+  Docker engine
+  Guest OS
+* Physical hardware
+
+3. What is part of the contents of starter kits?
+  API keys and service passwords
+* Skeleton template to start coding your application
+  Tutorials
+  Cloud credits
+
+4. What information is not shown on the Cloud Foundry application detail page?
+  Number of unique user connections to your application
+* Application URL
+  Memory and space used
+  Runtime cost
+
+5. What is the primary use of resource groups?
+  Group access
+* User access to multiple resources
+  Regional access
+  Change account information
