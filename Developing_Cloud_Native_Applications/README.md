@@ -28,7 +28,7 @@ Gain knowledge about building, deploying, testing, and running web applications 
 
 Build expertise to recognize when to use predefined services hosted by IBM Cloud and when to create custom services to bind with your applications.
 
-## Week Three: IBM Cloud CLI
+## Week Three: [IBM Cloud CLI](./Week_Three)
 Learn about using command-line interface (CLIs) to develop, test, and deploy applications and services for both IBM Cloud and Cloud Foundry. 
 
 You’ll gain career skills by deploying Node.js applications on IBM Cloud. 
