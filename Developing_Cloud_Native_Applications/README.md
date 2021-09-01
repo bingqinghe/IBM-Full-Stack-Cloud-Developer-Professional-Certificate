@@ -35,7 +35,7 @@ You’ll gain career skills by deploying Node.js applications on IBM Cloud.
 
 You will realize the benefits of using lightweight, powerful tools like IBM Cloud CLI or Cloud Foundry CLI to manage all cloud resources.
 
-## Week Four: DevOps on IBM Cloud
+## Week Four: [DevOps on IBM Cloud](./Week_Four)
 How does the DevOps software methodology integrate cloud application development and IT operations? 
 
 Discover how you can use DevOps tools for application development and maintenance. 
