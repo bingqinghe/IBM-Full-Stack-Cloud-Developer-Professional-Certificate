@@ -1,1 +1,31 @@
-Module 3 Practice Quiz1. What does JSON represent?    XML Object  REST Object  Webservice * JavaScript Object2. IBM Cloud CLI installers are available for many different operating systems. What is one of the operating systems?* Windows  RISC iX  GNU  Unix3. What ibmcloud CLI command can you use to select the Cloud Foundry organization and space?  ibmcloud pull  ibmcloud query* ibmcloud target  ibmcloud api4. When you install the ibmcloud CLI, cf CLI is included. What can you manage with cf CLI?  Cloud Foundry resources on IBM Cloud  IBM Cloud server applications * Cloud Foundry resources not on IBM Cloud  IBM Cloud log in  5. What framework works on top of Node.js to make development easier?  Spring  Django  Flask* Express
+Module 3 Practice Quiz
+
+1. What does JSON represent?  
+  XML Object
+  REST Object
+  Webservice 
+* JavaScript Object
+
+2. IBM Cloud CLI installers are available for many different operating systems. What is one of the operating systems?
+* Windows
+  RISC iX
+  GNU
+  Unix
+
+3. What ibmcloud CLI command can you use to select the Cloud Foundry organization and space?
+  ibmcloud pull
+  ibmcloud query
+* ibmcloud target
+  ibmcloud api
+
+4. When you install the ibmcloud CLI, cf CLI is included. What can you manage with cf CLI?
+  Cloud Foundry resources on IBM Cloud
+  IBM Cloud server applications 
+* Cloud Foundry resources not on IBM Cloud
+  IBM Cloud log in  
+
+5. What framework works on top of Node.js to make development easier?
+  Spring
+  Django
+  Flask
+* Express
