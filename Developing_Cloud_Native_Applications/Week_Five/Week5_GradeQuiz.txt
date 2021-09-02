@@ -1,1 +1,61 @@
-Module 5 Graded Quiz1. What is Representational State Transfer (REST)?  A web resource  A server-side application* An architectural style  An API2. Fill in the blank: REST uses a Uniform Resource Identifier (URI) to _____.  Define the structure of a web page* Describe the network location of the resource to retrieve or update  Use lightweight data models  Post data to the server3. What do you use to call a REST service?  HTML resources   Server entry points  HTTP method nouns* HTTP method verbs4. Which of the following are characteristics of REST and REST services?  REST provides a simple approach for building services for client/server interactions  REST services follow standard protocols  REST services tend to use lightweight data models* All of the above5. What does a REST service do when you apply it to a server-side application?  Defines the structure of a web page* Makes available an application as a web resource  Describes its location on the network server application resource  Codes the server side in a language like Java or Python6. Which of the following elements could the REST service write in a response?    Content-length    Response body    Date  * All of the above  7. On which two structures is JSON built?    Name-value pairs and HTTP   Array-value pairs and key lists    List of values and markup language * Name-value pairs and list of values  8. Which of these is NOT a characteristic of JSON?  * Markup language   Nesting of objects    Lightweight data interchange format    Easy for applications to parse and generate  9. What do Watson services allow you to build?  * Cognitive apps    IDE    IBM Cloud API Docs    Unstructured data  10. What do you need to do to use Postman to interact with the Watson Natural Language Understanding (NLU) service?    Get an IAM token from the user¡¯s NLU service API    Have the NLU service already created on your IBM account     Send the URL of the data in the body of the request   * All of the above  
+Module 5 Graded Quiz
+
+1. What is Representational State Transfer (REST)?
+  A web resource
+  A server-side application
+* An architectural style
+  An API
+
+2. Fill in the blank: REST uses a Uniform Resource Identifier (URI) to _____.
+  Define the structure of a web page
+* Describe the network location of the resource to retrieve or update
+  Use lightweight data models
+  Post data to the server
+
+3. What do you use to call a REST service?
+  HTML resources 
+  Server entry points
+  HTTP method nouns
+* HTTP method verbs
+
+4. Which of the following are characteristics of REST and REST services?
+  REST provides a simple approach for building services for client/server interactions
+  REST services follow standard protocols
+  REST services tend to use lightweight data models
+* All of the above
+
+5. What does a REST service do when you apply it to a server-side application?
+  Defines the structure of a web page
+* Makes available an application as a web resource
+  Describes its location on the network server application resource
+  Codes the server side in a language like Java or Python
+
+6. Which of the following elements could the REST service write in a response?  
+  Content-length  
+  Response body  
+  Date  
+* All of the above  
+
+7. On which two structures is JSON built?  
+  Name-value pairs and HTTP 
+  Array-value pairs and key lists  
+  List of values and markup language 
+* Name-value pairs and list of values  
+
+8. Which of these is NOT a characteristic of JSON?  
+* Markup language 
+  Nesting of objects  
+  Lightweight data interchange format  
+  Easy for applications to parse and generate  
+
+9. What do Watson services allow you to build?  
+* Cognitive apps  
+  IDE  
+  IBM Cloud API Docs  
+  Unstructured data  
+
+10. What do you need to do to use Postman to interact with the Watson Natural Language Understanding (NLU) service?  
+  Get an IAM token from the user's NLU service API  
+  Have the NLU service already created on your IBM account   
+  Send the URL of the data in the body of the request   
+* All of the above
