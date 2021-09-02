@@ -1,1 +1,31 @@
-Module 4 Practice Quiz1. Which of the following activities can you automate with DevOps processes and tools?  The build process  Code testing  Monitoring* All of the above2. Fill in the blank: A toolchain is _____ development, deployment, and operations tasks.  A set of tools that track issues in  An automated continuous delivery service for* A set of tool integrations that support  A web-based integrated development environment for3. Which Web IDE feature suggests functions and parameters in the editor?  Live Edit  Run bar  Project Navigator* Code completion4. Which Continuous Delivery feature do you use to deploy only the changes that you checked in to the repository?  Web IDE  * Delivery Pipeline    Git Repo   Live Edit  5. In the Git perspective from the Web IDE, where can you see if another user updated files in the remote repository?  Outgoing pane  Issue tracker  IBM Cloud dashboard* Incoming pane
+Module 4 Practice Quiz
+
+1. Which of the following activities can you automate with DevOps processes and tools?
+  The build process
+  Code testing
+  Monitoring
+* All of the above
+
+2. Fill in the blank: A toolchain is _____ development, deployment, and operations tasks.
+  A set of tools that track issues in
+  An automated continuous delivery service for
+* A set of tool integrations that support
+  A web-based integrated development environment for
+
+3. Which Web IDE feature suggests functions and parameters in the editor?
+  Live Edit
+  Run bar
+  Project Navigator
+* Code completion
+
+4. Which Continuous Delivery feature do you use to deploy only the changes that you checked in to the repository?
+  Web IDE  
+* Delivery Pipeline  
+  Git Repo 
+  Live Edit  
+
+5. In the Git perspective from the Web IDE, where can you see if another user updated files in the remote repository?
+  Outgoing pane
+  Issue tracker
+  IBM Cloud dashboard
+* Incoming pane
