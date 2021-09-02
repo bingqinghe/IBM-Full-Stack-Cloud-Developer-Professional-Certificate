@@ -46,7 +46,7 @@ Learn the steps for enabling integrated continuous delivery toolchains to automa
 
 Build your knowledge of cloud application development features including the IBM Cloud web integrated environment (Web IDE), Git repository and issue tracker, and Delivery Pipeline.
 
-## Week Five: REST Architecture and Watson API
+## Week Five: [REST Architecture and Watson API](./Week_Five)
 What is Representational State Transfer (REST)? 
 
 Discover how you can use REST to retrieve, update, and delete web resources. 
