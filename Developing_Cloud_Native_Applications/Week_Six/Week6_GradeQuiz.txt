@@ -1,1 +1,61 @@
-Module 6 Graded Quiz1. Which one of the following database is an IBM Cloud NoSQL offering?  IBM DB2   Elephant PostgreSQL* IBM Cloudant  Compose MySQL2. Which capability powers Cloudant Search?  GeoJSON  Offline First capabilities  Database as a Service (DaaS)* Apache Lucene3. Fill in the blank: _______________ supports the encoded geographic data structures for built-in?spatial querying and map visualization.  Apache Lucene* GeoJSON storage  Offline First capabilities  Database as a Service (DaaS)4. Select the?option that best describes?Cloudant?Offline First capabilities.  Supports the encoded geographic data structures for built-in?spatial querying and map visualization  Applies Infrastructure as a Service capabilities that enable agility within the Cloud* Enables data synchronization with?disconnected Android and Apple apps,?and?development of?your own apps using?language-specific libraries  Applies data replication technology?that saves developers time5. Fill in the blank:?Cloudant?__________ capabilities?enable?synchronization of mobile data back to the?Cloudant?database.  API libraries  Search  GeoJSON* Offline First (Sync)6. Fill in the blank: Use the ___________to view your database credentials. * Cloudant credentials     IBM Cloud documentation    IBM Cloud shell     IBM Cloud Catalog  7. Which?of the following describes how to view the generated REST API for?a?page?    Select Open Doc on the top toolbar* Click the JSON link in the dashboard    Click Options on the top toolbar then, select Include Docs    Select Include Docs from the top toolbar 8. You can pass an optional parameter named?include_docs?to the index to return the contents of the documents, not only the _id and _rev. How do you change this parameter?  * To change this parameter from the?Cloudant?dashboard, click Options on the top toolbar. Select Include Docs    Select the OST {} JSON link in the Cloudant dashboard   Select Include Docs from the top toolbar   Select Open Doc on the top toolbar  9. Fill in the blank: Issue a _______?request to read a?Cloudant?document.    PUSH?  PULL?   POST? * GET?  10. Fill in the blank: Issue a _______?request to run a?Cloudant?Query.    GET  PULL  PUSH* POST
+Module 6 Graded Quiz
+
+1. Which one of the following database is an IBM Cloud NoSQL offering?
+  IBM DB2 
+  Elephant PostgreSQL
+* IBM Cloudant
+  Compose MySQL
+
+2. Which capability powers Cloudant Search?
+  GeoJSON
+  Offline First capabilities
+  Database as a Service (DaaS)
+* Apache Lucene
+
+3. Fill in the blank: _______________ supports the encoded geographic data structures for built-in spatial querying and map visualization.
+  Apache Lucene
+* GeoJSON storage
+  Offline First capabilities
+  Database as a Service (DaaS)
+
+4. Select the option that best describes Cloudant Offline First capabilities.
+  Supports the encoded geographic data structures for built-in spatial querying and map visualization
+  Applies Infrastructure as a Service capabilities that enable agility within the Cloud
+* Enables data synchronization with disconnected Android and Apple apps, and development of your own apps using language-specific libraries
+  Applies data replication technology that saves developers time
+
+5. Fill in the blank: Cloudant __________ capabilities enable synchronization of mobile data back to the Cloudant database.
+  API libraries
+  Search
+  GeoJSON
+* Offline First (Sync)
+
+6. Fill in the blank: Use the ___________ to view your database credentials. 
+* Cloudant credentials   
+  IBM Cloud documentation  
+  IBM Cloud shell   
+  IBM Cloud Catalog  
+
+7. Which of the following describes how to view the generated REST API for a page?  
+  Select Open Doc on the top toolbar
+* Click the JSON link in the dashboard  
+  Click Options on the top toolbar then, select Include Docs  
+  Select Include Docs from the top toolbar 
+
+8. You can pass an optional parameter named include_docs to the index to return the contents of the documents, not only the _id and _rev. How do you change this parameter?  
+* To change this parameter from the Cloudant dashboard, click Options on the top toolbar. Select Include Docs  
+  Select the OST {} JSON link in the Cloudant dashboard 
+  Select Include Docs from the top toolbar 
+  Select Open Doc on the top toolbar  
+
+9. Fill in the blank: Issue a _______ request to read a Cloudant document.  
+  PUSH?
+  PULL? 
+  POST? 
+* GET?  
+
+10. Fill in the blank: Issue a _______ request to run a Cloudant Query.  
+  GET
+  PULL
+  PUSH
+* POST
