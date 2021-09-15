@@ -10,7 +10,7 @@ In the Most Loved, Dreaded, and Wanted category for Other Frameworks, Libraries,
 
 This course is designed to help you achieve success in this fast-growing cloud computing area. You may be an IT person looking to step up in your career,  a new graduate seeking to establish a solid skillset to score a job in the cloud or web development,  an IT decision-maker who needs to manage more cloud-centric projects, or someone in another field who wants to be able to talk about cloud computing knowledgeably.
 
-## Week One: Introduction to Server-Side JavaScript
+## Week One: [Introduction to Server-Side JavaScript](./Week_One)
 You may already be familiar with JavaScript, but did you know that there is a server-side JavaScript framework? 
 
 Discover how developers use this powerful tool to develop rich, dynamic web applications. 
