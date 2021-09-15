@@ -59,7 +59,7 @@ See how you can use IBM Cloud Watson application programming interfaces (APIs) e
 
 Learn how to use an API client to construct requests and read responses.
 
-## Week Six: Introduction to Data Services in IBM Cloud
+## Week Six: [Introduction to Data Services in IBM Cloud](./Week_Six)
 Cloud computing skills, and especially database knowledge, are in demand. 
 
 In this module, learn how IBM Cloud supports both NoSQL and SQL database services. 
