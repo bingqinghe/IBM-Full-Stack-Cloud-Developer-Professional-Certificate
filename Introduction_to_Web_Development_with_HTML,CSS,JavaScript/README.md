@@ -47,7 +47,7 @@ Every change by every contributor must be tracked and controlled to enable the c
 
 This type of distributed version control is extremely important when managing large software projects. Git, GitHub, and Git Lab are some of the most widely used tools for collaboration, storage, and version control.
 
-## Week Six: Final Project
+## Week Six: [Final Project](./Week_Six)
 Now that you have been equipped with the skills to use HTML, CSS, and JavaScript, you will have the opportunity to practice and create a web application.
 
 In this scenario, you are a web developer for an NGO. Everyone Can Get Rich is a non-governmental charity organization. 
