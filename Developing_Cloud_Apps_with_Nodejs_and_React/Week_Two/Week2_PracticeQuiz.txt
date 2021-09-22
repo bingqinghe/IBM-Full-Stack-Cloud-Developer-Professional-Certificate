@@ -1,1 +1,37 @@
-Practice Quiz1. In what manner do network operations run?* Asynchronous  Synchronized  Single-threaded  Distributed2. You write a callback function to run for which of the following events?  The Node.js framework receives a response message from the remote server* The network operation completes.  The network operation commences.  The application makes a call to http.request.3. Where in the callback function does a Node.js generally pass an error object?  The second parameter* The first parameter  The http.request( ) call  The HTTP response message4. What do you use response.end for? * To end the request and send a response to the client  To define the error message from a callback function  To print the result from the function call  To log the error from a callback function5. What do you use to convert a JavaScript object to a string?  Method JSON.parsestring()* Method JSON.stringify()  Method JSON.convert()  Method JSON.parse() 6. A promise is defined as an object returned by an asynchronous method that has three states. Which of the following is one of the states?  Acknowledged  Waiting* Resolved   Closed
+Practice Quiz
+
+1. In what manner do network operations run?
+* Asynchronous
+  Synchronized
+  Single-threaded
+  Distributed
+
+2. You write a callback function to run for which of the following events?
+  The Node.js framework receives a response message from the remote server
+* The network operation completes.
+  The network operation commences.
+  The application makes a call to http.request.
+
+3. Where in the callback function does a Node.js generally pass an error object?
+  The second parameter
+* The first parameter
+  The http.request( ) call
+  The HTTP response message
+
+4. What do you use response.end for? 
+* To end the request and send a response to the client
+  To define the error message from a callback function
+  To print the result from the function call
+  To log the error from a callback function
+
+5. What do you use to convert a JavaScript object to a string?
+  Method JSON.parsestring()
+* Method JSON.stringify()
+  Method JSON.convert()
+  Method JSON.parse() 
+
+6. A promise is defined as an object returned by an asynchronous method that has three states. Which of the following is one of the states?
+  Acknowledged
+  Waiting
+* Resolved 
+  Closed
