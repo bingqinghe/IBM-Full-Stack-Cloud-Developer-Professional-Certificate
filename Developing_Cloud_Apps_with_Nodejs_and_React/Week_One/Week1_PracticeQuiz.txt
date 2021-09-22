@@ -1,1 +1,29 @@
-Practice Quiz1. What is a popular format for sending data to REST services over HTTP?  Node.js* JSON  Express.js  HTML/CSS2. How can you handle incoming request messages and return response messages with a web server?  Set the web server to listen to a port  Import a Node.js module* Develop a callback function  Group Node.js modules into a package3. True or false: Node.js is a multithreaded application environment that handles I/O operations through events.  True* False4. What would you use var today = require('./today¡¯); for?  To retrieve the date from a weather service * To import a Node.js module   To download an npm package from the Internet on the terminal  To create an instance of a web server application 5. How do you make a function or a value available to Node.js applications that import your module?* Add a property to exports  Use the http.createServer function   Edit the module manifest  Create an instance of a web server application
+Practice Quiz
+
+1. What is a popular format for sending data to REST services over HTTP?
+  Node.js
+* JSON
+  Express.js
+  HTML/CSS
+
+2. How can you handle incoming request messages and return response messages with a web server?
+  Set the web server to listen to a port
+  Import a Node.js module
+* Develop a callback function
+  Group Node.js modules into a package
+
+3. True or false: Node.js is a multithreaded application environment that handles I/O operations through events.
+  True
+* False
+
+4. What would you use var today = require('./today'); for?
+  To retrieve the date from a weather service 
+* To import a Node.js module 
+  To download an npm package from the Internet on the terminal
+  To create an instance of a web server application 
+
+5. How do you make a function or a value available to Node.js applications that import your module?
+* Add a property to exports
+  Use the http.createServer function 
+  Edit the module manifest
+  Create an instance of a web server application
