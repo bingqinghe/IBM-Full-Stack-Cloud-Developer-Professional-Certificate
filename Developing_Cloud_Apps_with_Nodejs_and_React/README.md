@@ -28,7 +28,7 @@ Explore the advantages of using anonymous callback functions.
 
 Use Node.js to parse JavaScript Object Notation (JSON) data from a Hypertext Transfer Protocol (HTTP) message.
 
-## Week Three: Express Web Application Framework
+## Week Three: [Express Web Application Framework](./Week_Three)
 When you use Node.js to build a hypertext transfer protocol (HTTP) server, you will discover that the default Node.js framework is low level. 
 
 You can extend its features with third-party packages. 
