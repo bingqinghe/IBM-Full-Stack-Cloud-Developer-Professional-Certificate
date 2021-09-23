@@ -1,1 +1,59 @@
-Graded Quiz1. What quality makes it possible for you to run JavaScript applications without compiling?  The language syntax resembles Java.   All modern browsers support JavaScript. * JavaScript is an interpreted language.   You can use a text editor to develop JavaScript applications.2. True or false: With client-side JavaScript, Node.js applications process and route web service requests from the client.  True* False3. Which of the following applications intercepts the call when JavaScript sends a web service request to the Node.js server?  CSS  Enterprise Java* REST Web Service  JSON4. What is the best description of Node.js?  A multithreaded application environment that handles operations through events* A server-side programming framework that uses JavaScript as its programming language   A package for a script file that corresponds to a module  A simple web server that listens to HTTP requests and returns HTTP response messages 5. How do you handle operation results with Node.js?  Use blocking on asynchronous I/O operations   Create an instance of a web server application* Write callback functions to handle results when the operations complete  Specify a relative path to the Node.js script from the module directory6. What do you use the http.createServer function for?* To create an instance of a web server  To specify a main script for your module   To import a Node.js module  To develop an anonymous function to handle requests and responses7. What is the correspondence between a Node.js module and a script file?  2:1  4:1* 1:1  None8. What do you use the require function for?  To create an instance of a web server  To specify a main script for your module   To develop an anonymous function to handle requests and responses* To import a Node.js module9. What does adding a property to the implicit exports object do?  An anonymous function is blocked on the Node.js server.  A function returns details about your module. * A function becomes available to Node.js applications that import your module.   A function returns an object that represents an instance of your module. 10. What happens when a module does not have a package.json file?  There is no module manifest.   The require statement assumes that scripts have a file extension of js.* Node.js assumes that the main class is named index.js.   The relative path to the Node.js script changes to an absolute path from the module directory.
+Graded Quiz
+
+1. What quality makes it possible for you to run JavaScript applications without compiling?
+  The language syntax resembles Java. 
+  All modern browsers support JavaScript. 
+* JavaScript is an interpreted language. 
+  You can use a text editor to develop JavaScript applications.
+
+2. True or false: With client-side JavaScript, Node.js applications process and route web service requests from the client.
+  True
+* False
+
+3. Which of the following applications intercepts the call when JavaScript sends a web service request to the Node.js server?
+  CSS
+  Enterprise Java
+* REST Web Service
+  JSON
+
+4. What is the best description of Node.js?
+  A multithreaded application environment that handles operations through events
+* A server-side programming framework that uses JavaScript as its programming language 
+  A package for a script file that corresponds to a module
+  A simple web server that listens to HTTP requests and returns HTTP response messages 
+
+5. How do you handle operation results with Node.js?
+  Use blocking on asynchronous I/O operations 
+  Create an instance of a web server application
+* Write callback functions to handle results when the operations complete
+  Specify a relative path to the Node.js script from the module directory
+
+6. What do you use the http.createServer function for?
+* To create an instance of a web server
+  To specify a main script for your module 
+  To import a Node.js module
+  To develop an anonymous function to handle requests and responses
+
+7. What is the correspondence between a Node.js module and a script file?
+  2:1
+  4:1
+* 1:1
+  None
+
+8. What do you use the require function for?
+  To create an instance of a web server
+  To specify a main script for your module 
+  To develop an anonymous function to handle requests and responses
+* To import a Node.js module
+
+9. What does adding a property to the implicit exports object do?
+  An anonymous function is blocked on the Node.js server.
+  A function returns details about your module. 
+* A function becomes available to Node.js applications that import your module. 
+  A function returns an object that represents an instance of your module. 
+
+10. What happens when a module does not have a package.json file?
+  There is no module manifest. 
+  The require statement assumes that scripts have a file extension of js.
+* Node.js assumes that the main class is named index.js. 
+  The relative path to the Node.js script changes to an absolute path from the module directory.

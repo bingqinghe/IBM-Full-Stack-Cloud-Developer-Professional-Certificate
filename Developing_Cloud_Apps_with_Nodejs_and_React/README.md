@@ -19,7 +19,7 @@ Get hands-on experience using Node.js to build your own simple web server.
 
 Explore how Node.js works by using callback functions and extend your Node.js applications by importing external modules.
 
-## Week Two: Asynchronous I/O with Callback Programming
+## Week Two: [Asynchronous I/O with Callback Programming](./Week_Two)
 How can you optimize processor time with Node.js? 
 
 Discover how Node.js operates in a non-blocking manner and how to handle the result from a network call. 
