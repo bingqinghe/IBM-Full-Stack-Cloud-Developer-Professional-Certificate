@@ -1,1 +1,31 @@
-Practice Quiz1. Which new ES6 feature doesn't allow you to reassign a variable in the same code block?  Arrow functions  let  Promise* const2. Which new ES6 feature adds object-oriented programming capability to JavaScript?* Class  const  Arrow functions  Promise3. What is one of the things that React provides when building UIs?  Clarifies user feedback in applications   Synchronizes UI elements with user interaction  Extends markdown syntax* Eliminates a need to synchronize UI elements with the application state4. What must happen before you can create a class component?* Inherit the class component from the React module  Override the render method  Change the index.js file  Pass props to a constructor5. React components have three phases in their lifecycle. Which phase removes the component from the DOM?  Updating* Unmounting  Mounting  Refreshing
+Practice Quiz
+
+1. Which new ES6 feature doesn't allow you to reassign a variable in the same code block?
+  Arrow functions
+  let
+  Promise
+* const
+
+2. Which new ES6 feature adds object-oriented programming capability to JavaScript?
+* Class
+  const
+  Arrow functions
+  Promise
+
+3. What is one of the things that React provides when building UIs?
+  Clarifies user feedback in applications 
+  Synchronizes UI elements with user interaction
+  Extends markdown syntax
+* Eliminates a need to synchronize UI elements with the application state
+
+4. What must happen before you can create a class component?
+* Inherit the class component from the React module
+  Override the render method
+  Change the index.js file
+  Pass props to a constructor
+
+5. React components have three phases in their lifecycle. Which phase removes the component from the DOM?
+  Updating
+* Unmounting
+  Mounting
+  Refreshing
