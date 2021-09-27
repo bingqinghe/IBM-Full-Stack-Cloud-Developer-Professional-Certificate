@@ -1,1 +1,61 @@
-Graded Quiz1. What is EcmaScript or ES?  Regulated name for JSON  Programming organization* JavaScript Standard  Communication standard2. What is one of the new features in JavaScript ES6?* Arrow functions  Find  Get  Object3. What is the state of a promise object when the operation executes successfully?  pending* fulfilled  end  constant4. React is an open source library created and maintained by Facebook and community developers. What is it mainly used to build?* Frontend Applications  AI questions  Error messages  Accessibility messages5. Facebook provides the Create React App to simplify creating React apps. What must be installed in order to run npx create-react-app with the name of the app you want to create?  XML editor  JavaScript  Facebook* Node.js6. Functional components are most useful when the component has properties, but what is the restriction?  Properties can't have uppercase characters.  Properties can't be user-defined.* The component lifecycle does not require management.  Properties can't be passed as parameters to the function.7. What makes class components more preferable than functional components?  Rigidity  Simplicity* Versatility  Definition8. In the Working with React Components video, what does the incrementCounter method do in the React app?  Routes command through component  Stops the application* Updates state so component is rendered again  Passes value to the GUI9. As components are mounted there are four methods called, all in the same order. Which method only returns one root element, even if it has or doesn't have many nested child elements?  getDerivedStateFromProps()* render()  componentDidMount()  constructor()10. As components are updated, five methods are called in the same order. Which method is called every time a change in state occurs?  getDerivedStateFromProps()* shouldComponentUpdate()  render()  getSnapshotBeforeUpdate()
+Graded Quiz
+
+1. What is EcmaScript or ES?
+  Regulated name for JSON
+  Programming organization
+* JavaScript Standard
+  Communication standard
+
+2. What is one of the new features in JavaScript ES6?
+* Arrow functions
+  Find
+  Get
+  Object
+
+3. What is the state of a promise object when the operation executes successfully?
+  pending
+* fulfilled
+  end
+  constant
+
+4. React is an open source library created and maintained by Facebook and community developers. What is it mainly used to build?
+* Frontend Applications
+  AI questions
+  Error messages
+  Accessibility messages
+
+5. Facebook provides the Create React App to simplify creating React apps. What must be installed in order to run npx create-react-app with the name of the app you want to create?
+  XML editor
+  JavaScript
+  Facebook
+* Node.js
+
+6. Functional components are most useful when the component has properties, but what is the restriction?
+  Properties can't have uppercase characters.
+  Properties can't be user-defined.
+* The component lifecycle does not require management.
+  Properties can't be passed as parameters to the function.
+
+7. What makes class components more preferable than functional components?
+  Rigidity
+  Simplicity
+* Versatility
+  Definition
+
+8. In the Working with React Components video, what does the incrementCounter method do in the React app?
+  Routes command through component
+  Stops the application
+* Updates state so component is rendered again
+  Passes value to the GUI
+
+9. As components are mounted there are four methods called, all in the same order. Which method only returns one root element, even if it has or doesn't have many nested child elements?
+  getDerivedStateFromProps()
+* render()
+  componentDidMount()
+  constructor()
+
+10. As components are updated, five methods are called in the same order. Which method is called every time a change in state occurs?
+  getDerivedStateFromProps()
+* shouldComponentUpdate()
+  render()
+  getSnapshotBeforeUpdate()
