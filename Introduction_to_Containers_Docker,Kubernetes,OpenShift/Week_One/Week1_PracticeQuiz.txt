@@ -1,1 +1,33 @@
-Module 1 - Practice Quiz1. What does the Docker CLI run command do?* It runs an image as a container.  It runs a container as an image.  It runs a Dockerfile.  It runs the Docker daemon.2. In this sample Dockerfile, what does the COPY instruction do?                FROM ubuntu:18.04        COPY . /app        RUN make /app        CMD python /app/app.py    It copies the contents of the /app directory into the working directory of the image as a new layer.  It copies the contents of the root directory into the /app directory of the image as a new layer.* It copies the contents of the current directory into the /app directory of the image as a new layer.  It copies all application files into the working directory of the image as a new layer.3. It is possible for containers to use the features and resources of the host operating system.* True  False4. Which command names an image ¡°my-app¡± and tags it ¡°v1¡±?  docker build -n my-app v1 .  docker copy -v my-app:v1 .* docker build -t my-app:v1 .  Docker tag -n my-app -t v1 .5. You can use the Docker COPY instruction to copy files both from your local machine and from remote URLs.  True* False
+Module 1 - Practice Quiz
+
+1. What does the Docker CLI run command do?
+* It runs an image as a container.
+  It runs a container as an image.
+  It runs a Dockerfile.
+  It runs the Docker daemon.
+
+2. In this sample Dockerfile, what does the COPY instruction do?
+        
+        FROM ubuntu:18.04
+        COPY . /app
+        RUN make /app
+        CMD python /app/app.py 
+ 
+  It copies the contents of the /app directory into the working directory of the image as a new layer.
+  It copies the contents of the root directory into the /app directory of the image as a new layer.
+* It copies the contents of the current directory into the /app directory of the image as a new layer.
+  It copies all application files into the working directory of the image as a new layer.
+
+3. It is possible for containers to use the features and resources of the host operating system.
+* True
+  False
+
+4. Which command names an image "my-app" and tags it "v1"?
+  docker build -n my-app v1 .
+  docker copy -v my-app:v1 .
+* docker build -t my-app:v1 .
+  Docker tag -n my-app -t v1 .
+
+5. You can use the Docker COPY instruction to copy files both from your local machine and from remote URLs.
+  True
+* False
