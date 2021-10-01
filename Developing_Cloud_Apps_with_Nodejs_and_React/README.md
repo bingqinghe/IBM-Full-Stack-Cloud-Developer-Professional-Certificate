@@ -39,7 +39,7 @@ Discover how to manage package dependencies.
 
 Create a web server that listens to incoming requests. Use routing, middleware, and template rendering to extend the Node.js framework and handle dynamic content.
 
-## Week Four: Building a Rich Front-End Application using REACT & ES6
+## Week Four: [Building a Rich Front-End Application using REACT & ES6](./Week_Four)
 As you are becoming more proficient with JavaScript, you will find that it is a very dynamic language and looks different than the typical object-oriented languages. 
 
 Now you will discover new features that make developing simpler and faster than older JavaScript capabilities. 
