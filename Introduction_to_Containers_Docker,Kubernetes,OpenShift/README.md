@@ -25,7 +25,7 @@ Finally, you will learn about container registries and the functionalities they 
 
 At the end of the module, you will do a hands-on exercise in which you will write a Dockerfile, build an image and run it as a container, and store the image in a registry.
 
-## Week Two: Understanding Kubernetes Architecture
+## Week Two: [Understanding Kubernetes Architecture](./Week_Two)
 In this module, you will learn what container orchestration is and how it helps to create and manage the lifecycle of complex container environments. Kubernetes is the most popular container orchestration platform. 
 
 In this module, we will familiarize you with the key architectural components of Kubernetes, such as the control plane components and controllers. 
