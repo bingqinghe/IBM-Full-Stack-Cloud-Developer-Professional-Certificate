@@ -1,1 +1,72 @@
-Module 2 - Graded Quiz1. Which of the following four statements describes what Kubernetes is? Select all that apply. * Container orchestration platform * A tool that facilitates declarative management   A registry for storing images * Widely available * Open source software 2. Which of the following components is part of the Kubernetes control plane? The worker nodes   The kubelet * etcd   The Kubernetes network proxy 3. Which of the following two are Kubernetes objects? Select all that apply.   Clusters   Kubelets   Kubernetes scheduler * ConfigMaps * Namespaces 4. Which Kubernetes object represents a single instance of processes running in a container?   Deployment * Pod   Cluster   Kubelet   ReplicaSet 5. In this sample kubectl command, what does create do?         kubectl create -f nginx.yaml * It creates an object using the details in the nginx.yaml file.   It creates a new cluster using the details in the nginx.yaml file.   It creates a YAML file named nginx.yaml.   It creates a configuration file for an nginx web server. 6. Which of the following statements describes what Kubernetes is?   A solution for sharing and storing images   A service for building source code   An all-inclusive platform as a service (PaaS)   A continuous delivery pipeline * A container orchestration platform 7. Which of the following two are container runtimes? Select all that apply.   Rocket Ship  DRunner * CRI-O * Docker   Kubelet 8. Which of the following Kubernetes objects can you use to segregate a cluster by team or project?   Volumes   ConfigMaps   Kubernetes controllers * Namespaces 9. Which Kubernetes object provides updates to Pods and ReplicaSets?   Patch * Deployment   ConfigMap   Secret 10. In this sample kubectl command, what does create do?         kubectl create -f pod.json    It creates a new cluster using the details in the pod.json file.   It creates a file that contains the configuration for a Kubernetes Pod. * It creates an object using the details in the pod.json file.   It creates a JSON file named pod.json. 
+Module 2 - Graded Quiz
+
+1. Which of the following four statements describes what Kubernetes is? Select all that apply. 
+* Container orchestration platform 
+* A tool that facilitates declarative management 
+  A registry for storing images 
+* Widely available 
+* Open source software 
+
+2. Which of the following components is part of the Kubernetes control plane? 
+  The worker nodes 
+  The kubelet 
+* etcd 
+  The Kubernetes network proxy 
+
+3. Which of the following two are Kubernetes objects? Select all that apply. 
+  Clusters 
+  Kubelets 
+  Kubernetes scheduler 
+* ConfigMaps 
+* Namespaces 
+
+4. Which Kubernetes object represents a single instance of processes running in a container? 
+  Deployment 
+* Pod 
+  Cluster 
+  Kubelet 
+  ReplicaSet 
+
+5. In this sample kubectl command, what does create do? 
+
+        kubectl create -f nginx.yaml 
+
+* It creates an object using the details in the nginx.yaml file. 
+  It creates a new cluster using the details in the nginx.yaml file. 
+  It creates a YAML file named nginx.yaml. 
+  It creates a configuration file for an nginx web server. 
+
+6. Which of the following statements describes what Kubernetes is? 
+  A solution for sharing and storing images 
+  A service for building source code 
+  An all-inclusive platform as a service (PaaS) 
+  A continuous delivery pipeline 
+* A container orchestration platform 
+
+7. Which of the following two are container runtimes? Select all that apply. 
+  Rocket Ship
+  DRunner 
+* CRI-O 
+* Docker 
+  Kubelet 
+
+8. Which of the following Kubernetes objects can you use to segregate a cluster by team or project? 
+  Volumes 
+  ConfigMaps 
+  Kubernetes controllers 
+* Namespaces 
+
+9. Which Kubernetes object provides updates to Pods and ReplicaSets? 
+  Patch 
+* Deployment 
+  ConfigMap 
+  Secret 
+
+10. In this sample kubectl command, what does create do? 
+
+        kubectl create -f pod.json 
+ 
+  It creates a new cluster using the details in the pod.json file. 
+  It creates a file that contains the configuration for a Kubernetes Pod. 
+* It creates an object using the details in the pod.json file. 
+  It creates a JSON file named pod.json. 
