@@ -36,7 +36,7 @@ The Kubernetes CLI, or "kubectl", is used to manipulate objects and manage workl
 
 Finally, at the end of this module, you will use the kubectl CLI commands to create resources on an actual Kubernetes cluster.
 
-## Week Three: Managing Applications with Kubernetes
+## Week Three: [Managing Applications with Kubernetes](./Week_Three)
 In this module, you will learn about some key concepts such as ReplicaSets, autoscaling, rolling updates, ConfigMaps, Secrets, and service bindings, and how they can be used to manage Kubernetes applications.
 
 You will learn how to use ReplicaSets to scale applications to meet increasing demand, and then use the autoscaling feature to make this scaling dynamic, as per demand. 
