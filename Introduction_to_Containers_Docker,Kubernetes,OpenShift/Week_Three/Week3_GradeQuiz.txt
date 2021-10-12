@@ -1,1 +1,76 @@
-Module 3 - Graded Quiz1. Which of the following statements describes what a ReplicaSet does? Select the four that apply. * Replicates a Deployment   Autoscales an application * Maintains a stable set of Pods in a cluster, spinning up or deleting pods as needed * Rolls out app changes in an automated and controlled manner * Provides configuration details to Deployments 2. Which of the following Kubernetes objects are used to run applications? Select the four that apply. * ReplicaSets * Secrets * ConfigMaps * Service bindings   ibmcloud CLI 3. In this sample kubectl command, what does get deployments tell us? Select the four that apply. ? kubectl get deployments NAME               READY         UP-TO-DATE      AVAILABLE       AGENginx-deploy      1/3             1                                1               3s                                                                       * The number of replicas that have been updated to the desired state.   The Kubernetes namespace in which the Deployments live. * How many replicas of the application are ready. * How many replicas of the application are available. * How long the application has been running. 4. Which of the following Kubernetes objects is used to store and manage sensitive information?   ConfigMaps * Secrets   Service bindings   ReplicaSets 5. Which of the following can be used to create ConfigMaps? Select the three that apply. * A YAML configuration file* The kubectl configmap command   Service bindings   Horizontal Pod Autoscaler * A file with key-value pairs 6. How are ReplicaSets often created? * One is automatically created for you when you create a Deployment.   By adding a ReplicaSet: on flag to the deployment¡¯s configuration file.   Using the kubectl create replicaset command.   By adding a ReplicaSet: on flag to the Dockerfile used to build the container image. 7. Which of the following Kubernetes objects are used to run applications? Select the three that apply. * Deployments   Plugins   ResourceSets * Service bindings * ConfigMaps 8. Which of the following are used to provide ConfigMaps to Pods and Deployments? Select the two that apply.* YAML configuration files  Kubernetes schedulers   Container runtimes   Service bindings * String literals 9. What Kubernetes capabilities enable an application to increase the number of Pods based on traffic? Select the two that apply. * kubectl autoscale command   Service binding * Horizontal Pod Autoscaler?   kubectl scale command   Kubernetes traffic router 10. What does the following command do?         kubectl get secrets --namespace=default   Retrieves the binding.password values for the services bound to your Kubernetes cluster   Retrieves all the Secrets in your Kubernetes cluster   Retrieves the IBM Cloud IAM API key for your Kubernetes cluster * Retrieves the secrets in the ¡°default¡± namespace 
+Module 3 - Graded Quiz
+
+1. Which of the following statements describes what a ReplicaSet does? Select the four that apply. 
+* Replicates a Deployment 
+  Autoscales an application 
+* Maintains a stable set of Pods in a cluster, spinning up or deleting pods as needed 
+* Rolls out app changes in an automated and controlled manner 
+* Provides configuration details to Deployments 
+
+2. Which of the following Kubernetes objects are used to run applications? Select the four that apply. 
+* ReplicaSets 
+* Secrets 
+* ConfigMaps 
+* Service bindings 
+  ibmcloud CLI 
+
+3. In this sample kubectl command, what does get deployments tell us? Select the four that apply. 
+
+        >> kubectl get deployments 
+           NAME            READY    UP-TO-DATE    AVAILABLE    AGE
+           Nginx-deploy    1/3      1             1            3s                                                                       
+
+* The number of replicas that have been updated to the desired state. 
+  The Kubernetes namespace in which the Deployments live. 
+* How many replicas of the application are ready. 
+* How many replicas of the application are available. 
+* How long the application has been running. 
+
+4. Which of the following Kubernetes objects is used to store and manage sensitive information? 
+  ConfigMaps 
+* Secrets 
+  Service bindings 
+  ReplicaSets 
+
+5. Which of the following can be used to create ConfigMaps? Select the three that apply. 
+* A YAML configuration file
+* The kubectl configmap command 
+  Service bindings 
+  Horizontal Pod Autoscaler 
+* A file with key-value pairs 
+
+6. How are ReplicaSets often created? 
+* One is automatically created for you when you create a Deployment. 
+  By adding a ReplicaSet: on flag to the deployment's configuration file. 
+  Using the kubectl create replicaset command. 
+  By adding a ReplicaSet: on flag to the Dockerfile used to build the container image. 
+
+7. Which of the following Kubernetes objects are used to run applications? Select the three that apply. 
+* Deployments 
+  Plugins 
+  ResourceSets 
+* Service bindings 
+* ConfigMaps 
+
+8. Which of the following are used to provide ConfigMaps to Pods and Deployments? Select the two that apply.
+* YAML configuration files
+  Kubernetes schedulers 
+  Container runtimes 
+  Service bindings 
+* String literals 
+
+9. What Kubernetes capabilities enable an application to increase the number of Pods based on traffic? Select the two that apply. 
+* kubectl autoscale command 
+  Service binding 
+* Horizontal Pod Autoscaler? 
+  kubectl scale command 
+  Kubernetes traffic router 
+
+10. What does the following command do? 
+
+        kubectl get secrets --namespace=default 
+
+  Retrieves the binding.password values for the services bound to your Kubernetes cluster 
+  Retrieves all the Secrets in your Kubernetes cluster 
+  Retrieves the IBM Cloud IAM API key for your Kubernetes cluster 
+* Retrieves the secrets in the Â¡Â°defaultÂ¡Â± namespace 
