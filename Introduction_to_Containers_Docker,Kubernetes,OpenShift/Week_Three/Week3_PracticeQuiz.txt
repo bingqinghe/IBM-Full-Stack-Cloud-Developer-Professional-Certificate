@@ -1,1 +1,28 @@
-Module 3 - Practice Quiz1. Before you create a Deployment, you must create the associated ReplicaSet.  True * False2. You can use a SecretMap to store and manage sensitive information, such as passwords.  True* False3. Which two of the following can be used to provide ConfigMaps to Pods and Deployments? Select all that apply.  Container runtimes  Bash scripts  Service bindings  * YAML configuration files* String literals4. What does the Kubernetes Horizontal Pod Autoscaler do?  Automatically scales up or down the amount of memory allocated to a Deployment as needed.  Autoscales the cluster¡¯s worker nodes as needed so that additional Pods can be deployed to the infrastructure  Automatically rolls out new Deployments within the system as needed.* Automatically increases or decreases the number of Pods deployed within the system as needed.5. Which command retrieves the Secrets in the ¡°default¡± namespace?  kubectl get namespace=default --secrets* kubectl get secrets --namespace=default  kubectl get secrets namespace default  kubectl get secrets -s namespace=default
+Module 3 - Practice Quiz
+
+1. Before you create a Deployment, you must create the associated ReplicaSet.
+  True 
+* False
+
+2. You can use a SecretMap to store and manage sensitive information, such as passwords.
+  True
+* False
+
+3. Which two of the following can be used to provide ConfigMaps to Pods and Deployments? Select all that apply.
+  Container runtimes
+  Bash scripts
+  Service bindings  
+* YAML configuration files
+* String literals
+
+4. What does the Kubernetes Horizontal Pod Autoscaler do?
+  Automatically scales up or down the amount of memory allocated to a Deployment as needed.
+  Autoscales the cluster's worker nodes as needed so that additional Pods can be deployed to the infrastructure
+  Automatically rolls out new Deployments within the system as needed.
+* Automatically increases or decreases the number of Pods deployed within the system as needed.
+
+5. Which command retrieves the Secrets in the "default" namespace?
+  kubectl get namespace=default --secrets
+* kubectl get secrets --namespace=default
+  kubectl get secrets namespace default
+  kubectl get secrets -s namespace=default
