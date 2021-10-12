@@ -1,1 +1,30 @@
-Module 4 - Practice Quiz1. Which of the following are Red Hat OpenShift build strategies? Select the three that apply. * Docker * Source-to-image   GitHub webhook * Custom build   Continuous integration and continuous delivery 2. Which of the following are needed to create an operator? Select the two that apply. * Custom controller   Service mesh * Custom resources   Red Hat OpenShift   Source-to-image 3. Istio¡¯s observability features allow you to route users to different versions of a service in order to perform A/B testing or canary deployments.   True* False4. Which of the following are true of image streams? Select the two that apply.   Image streams point to an image by repo and tag and can thus be overwritten if someone pushes another image with the same tag to the repo. * Image streams do not contain image data but are merely pointers to images.   Image streams are a crucial component of operators.   It is not possible to run an image in OpenShift without an image stream. * Image streams were introduced into Kubernetes to facilitate image management. 5. The Cloud Native Computing Foundation hosts Kubernetes and all the tools in the Kubernetes ecosystem. * True  False
+Module 4 - Practice Quiz
+
+1. Which of the following are Red Hat OpenShift build strategies? Select the three that apply. 
+* Docker 
+* Source-to-image 
+  GitHub webhook 
+* Custom build 
+  Continuous integration and continuous delivery 
+
+2. Which of the following are needed to create an operator? Select the two that apply. 
+* Custom controller 
+  Service mesh 
+* Custom resources 
+  Red Hat OpenShift 
+  Source-to-image 
+
+3. Istio's observability features allow you to route users to different versions of a service in order to perform A/B testing or canary deployments. 
+  True
+* False
+
+4. Which of the following are true of image streams? Select the two that apply. 
+  Image streams point to an image by repo and tag and can thus be overwritten if someone pushes another image with the same tag to the repo. 
+* Image streams do not contain image data but are merely pointers to images. 
+  Image streams are a crucial component of operators. 
+  It is not possible to run an image in OpenShift without an image stream. 
+* Image streams were introduced into Kubernetes to facilitate image management. 
+
+5. The Cloud Native Computing Foundation hosts Kubernetes and all the tools in the Kubernetes ecosystem. 
+* True
+  False
