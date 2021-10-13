@@ -47,7 +47,7 @@ You will learn how to use ConfigMaps and Secrets to provide configuration variab
 
 Finally, you will perform a hands-on exercise to scale and update applications deployed in Kubernetes.
 
-## Week Four: The Kubernetes Ecosystem: OpenShift, Istio, etc.
+## Week Four: [The Kubernetes Ecosystem: OpenShift, Istio, etc.](./Week_Four)
 In this module, you will learn about the growing Kubernetes ecosystem and be introduced to some additional tools that work well with Kubernetes to support cloud-native development. 
 
 You’ll learn about the Cloud Native Computing Foundation (CNCF) which hosts Kubernetes, and the valuable resources it provides for navigating the ecosystem.
