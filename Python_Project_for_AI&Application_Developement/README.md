@@ -8,7 +8,7 @@ Assume the role of a developer and unit test and package an application with the
 
 After completing this course you will have acquired the confidence to begin developing AI enabled applications using Python, build and run unit tests, and package the application for distribution.
 
-## Week One: Python - Unit testing, module packaging and web application development
+## Week One: [Python - Unit testing, module packaging and web application development](./Week_One)
 In this module, you will be introduced to the process of packaging, unit testing in Python and Flask, a microweb framework, the creation of web applications using flask. 
 
 Packaging allows the Cloud Application Developer to produce a coding unit that can be tested and integrated into a codebase. 
