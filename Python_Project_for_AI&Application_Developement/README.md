@@ -1,5 +1,5 @@
 # Python Project for AI & Application Development
-IBM
+by IBM
 
 ## About this Course
 This mini-course is intended to apply foundational Python skills by implementing different techniques to develop applications and AI powered solutions. 
