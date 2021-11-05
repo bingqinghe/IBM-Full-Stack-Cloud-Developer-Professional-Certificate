@@ -1,1 +1,37 @@
-Practice Quiz: Basic SQL Statements1. What is the function of a predicate when reading and modifying data?  It is a condition that evaluates to true, false, or unknown.  It is always required when using the Where clause.  It allows us to restrict the result set using the Where clause* All of the above 2. Which of the following INSERT statements will add one row containing a student°Øs identification number, first name, and last name?  INSERT INTO STUDENT          (STUDENT_ID, LASTNAME, FIRSTNAME)   STUDENT_ID (°Æ345DT2000°Ø), LASTNAME (°ÆMorales°Ø), FIRSTNAME (°ÆRaul°Ø)   INSERT INTO STUDENT         (STUDENT_ID, LASTNAME, FIRSTNAME)  VALUES (STUDENT ID = °Æ345DT2000°Ø, LASTNAME = °ÆMorales°Ø, FIRSTNAME = °ÆRaul°Ø)  INSERT INTO STUDENT          (STUDENT_ID, LASTNAME, FIRSTNAME, DOB)   VALUES (°Æ345DT2000°Ø, °ÆMorales°Ø, °ÆRaul°Ø) * INSERT INTO STUDENT         (STUDENT_ID, LASTNAME, FIRSTNAME)   VALUES (°Æ345DT2000°Ø, °ÆMorales°Ø, °ÆRaul°Ø) 3. You want to update a row in the Student table to change a student°Øs first name from °∞Kristen°± to °∞Christine.°± What will happen if you leave out the Where clause in the UPDATE statement?  Student(s) with the first name of °∞Kristen°± would be deleted from the database.* Every student°Øs first name would change to °∞Christine°± in the table.    The update would take longer because SQL would need to search through the whole database for a student with a first name of °∞Kristen.°±  Nothing. The UPDATE clause won°Øt work without the WHERE clause.4. Which expression below is used with a SELECT statement to retrieve the number of rows that match the query criteria?  LIMIT* COUNT  DISTINCT  All of the above
+Practice Quiz: Basic SQL Statements
+
+1. What is the function of a predicate when reading and modifying data?
+  It is a condition that evaluates to true, false, or unknown.
+  It is always required when using the Where clause.
+  It allows us to restrict the result set using the Where clause
+* All of the above 
+
+2. Which of the following INSERT statements will add one row containing a student‚Äôs identification number, first name, and last name?
+
+  INSERT INTO STUDENT 
+         (STUDENT_ID, LASTNAME, FIRSTNAME) 
+  STUDENT_ID (‚Äò345DT2000‚Äô), LASTNAME (‚ÄòMorales‚Äô), FIRSTNAME (‚ÄòRaul‚Äô) 
+
+  INSERT INTO STUDENT
+         (STUDENT_ID, LASTNAME, FIRSTNAME)
+  VALUES (STUDENT ID = ‚Äò345DT2000‚Äô, LASTNAME = ‚ÄòMorales‚Äô, FIRSTNAME = ‚ÄòRaul‚Äô)
+
+  INSERT INTO STUDENT 
+         (STUDENT_ID, LASTNAME, FIRSTNAME, DOB) 
+  VALUES (‚Äò345DT2000‚Äô, ‚ÄòMorales‚Äô, ‚ÄòRaul‚Äô) 
+
+* INSERT INTO STUDENT 
+        (STUDENT_ID, LASTNAME, FIRSTNAME) 
+  VALUES (‚Äò345DT2000‚Äô, ‚ÄòMorales‚Äô, ‚ÄòRaul‚Äô) 
+
+3. You want to update a row in the Student table to change a student‚Äôs first name from ‚ÄúKristen‚Äù to ‚ÄúChristine.‚Äù What will happen if you leave out the Where clause in the UPDATE statement?
+  Student(s) with the first name of ‚ÄúKristen‚Äù would be deleted from the database.
+* Every student‚Äôs first name would change to ‚ÄúChristine‚Äù in the table.  
+  The update would take longer because SQL would need to search through the whole database for a student with a first name of ‚ÄúKristen.‚Äù
+  Nothing. The UPDATE clause won‚Äôt work without the WHERE clause.
+
+4. Which expression below is used with a SELECT statement to retrieve the number of rows that match the query criteria?
+  LIMIT
+* COUNT
+  DISTINCT
+  All of the above
