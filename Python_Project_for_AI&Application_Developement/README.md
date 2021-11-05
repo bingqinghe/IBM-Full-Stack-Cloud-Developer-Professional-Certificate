@@ -18,3 +18,8 @@ Unit testing assures that code is error-free and integrates properly within a la
 Flask is an open-source python package that allows you to create web applications.
 
 ## Week Two: Final Assignment - Python Web Application
+Demonstrate how to unit test Python code
+
+Demonstrate how to create a Python Package
+
+Demonstrate how to create a Python Web Application
