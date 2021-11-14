@@ -1,1 +1,7 @@
-Practice Quiz: ORM and Django Model1. What does Django map each field to in a database table?  Schema  Field class  Parameter* Column
+Practice Quiz: ORM and Django Model
+
+1. What does Django map each field to in a database table?
+  Schema
+  Field class
+  Parameter
+* Column
