@@ -29,7 +29,7 @@ Explore the structure, use cases, and limitations of relational databases.
   
 Learn key relational database concepts, including entities, attributes, entity-relationship data modeling, common data types, and primary key.
 
-## Week Two: ORM: Bridging the Gap Between the Real World and Relational Model
+## Week Two: ORM: [Bridging the Gap Between the Real World and Relational Model](./Week_Two)
 You’re aware that SQL is a powerful tool for working with databases. But in the modern application development environment, object-oriented programming is the most popular paradigm, and it is quite different from SQL. Is there a way to use Object-oriented programming to work with databases?
 
 Discover how Object-Relational Mapping (ORM) bridges the gap between object-oriented programming (OOP) and SQL and allows application developers to use OOP languages to work with databases without writing SQL code. 
