@@ -1,1 +1,7 @@
-Practice Quiz: Django Model API1. Which of the following relationships between entities does Django ORM support?  One-to-One   Many-to-One  Many-to-Many* All of the above
+Practice Quiz: Django Model API
+
+1. Which of the following relationships between entities does Django ORM support?
+  One-to-One 
+  Many-to-One
+  Many-to-Many
+* All of the above
