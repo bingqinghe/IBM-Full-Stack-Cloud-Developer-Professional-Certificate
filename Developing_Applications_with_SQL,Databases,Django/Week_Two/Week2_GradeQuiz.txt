@@ -1,1 +1,55 @@
-Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model1. Which of the following is a benefit of using ORM?  Increases performance  Easier to debug   Removes data access complexity from application code* Speeds up application development 2. When you create an object (an instance of a class) in Django, what does it represent?  Table cell  Table column* Table row  Database table3. What does Django create when you create a forward relationship?* Backward access  Comparative clause  Django doesn't automatically create anything  Explicit reference4. To delete() records in a database, you call the Delete method on which objects?  Foreign Key field or Many-to-many field  Filter chain or primitive field  Child object or lookup parameter* Model object or QuerySet5. What is the main reason ORM was invented?* Bridge the gap between OOP and SQL  Promote SQL  Use a different set of APIs for each database   Utilize methods 6. Multi-table inheritance is like which relationship?  Many-to-many   Many-to-one* One-to-one  One-to-many7. What method would you use to create a subset of database records?  Add* Filter  Save  Get8. How do you specify what happens to related objects when an object is deleted?* on_delete   delete_related  Delete foreign key  Protect9. Django only requires that model relationships be defined on one side. What is this called?* Forward access  Related object  Child object  Singular access
+Graded Quiz: ORM - Bridging the Gap Between the Real World and Relational Model
+
+1. Which of the following is a benefit of using ORM?
+  Increases performance
+  Easier to debug 
+  Removes data access complexity from application code
+* Speeds up application development 
+
+2. When you create an object (an instance of a class) in Django, what does it represent?
+  Table cell
+  Table column
+* Table row
+  Database table
+
+3. What does Django create when you create a forward relationship?
+* Backward access
+  Comparative clause
+  Django doesn't automatically create anything
+  Explicit reference
+
+4. To delete() records in a database, you call the Delete method on which objects?
+  Foreign Key field or Many-to-many field
+  Filter chain or primitive field
+  Child object or lookup parameter
+* Model object or QuerySet
+
+5. What is the main reason ORM was invented?
+* Bridge the gap between OOP and SQL
+  Promote SQL
+  Use a different set of APIs for each database 
+  Utilize methods 
+
+6. Multi-table inheritance is like which relationship?
+  Many-to-many 
+  Many-to-one
+* One-to-one
+  One-to-many
+
+7. What method would you use to create a subset of database records?
+  Add
+* Filter
+  Save
+  Get
+
+8. How do you specify what happens to related objects when an object is deleted?
+* on_delete 
+  delete_related
+  Delete foreign key
+  Protect
+
+9. Django only requires that model relationships be defined on one side. What is this called?
+* Forward access
+  Related object
+  Child object
+  Singular access
