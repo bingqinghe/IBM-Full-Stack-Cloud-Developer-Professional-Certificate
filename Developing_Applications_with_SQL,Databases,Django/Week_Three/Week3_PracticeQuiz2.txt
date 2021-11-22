@@ -1,1 +1,25 @@
-Practice Quiz: Full-stack Django Development1. What do templates do in Django?  List tasks  Arrange Django project structure* Specify how data is presented  Determine which data should be presented2. After the core development work is done in Django apps, what is one thing that could be done to facilitate app content management?  Add a client site  Use a 3rd-party backend library  Add another server* Add an admin site3. One of the first steps when building a Django admin site is to create an admin user. What command is used to do this in the Django Admin video?  python manage.py addusername   python manage.py adduser * python manage.py createsuperuserpython config.py createadmin4. A view takes an HTTP request and returns an HTTP response. The HTTP response can be a string, a JSON/XML file, or an HTML page with what response status?  Success status  Error status  Informational status * All of the above
+Practice Quiz: Full-stack Django Development
+
+1. What do templates do in Django?
+  List tasks
+  Arrange Django project structure
+* Specify how data is presented
+  Determine which data should be presented
+
+2. After the core development work is done in Django apps, what is one thing that could be done to facilitate app content management?
+  Add a client site
+  Use a 3rd-party backend library
+  Add another server
+* Add an admin site
+
+3. One of the first steps when building a Django admin site is to create an admin user. What command is used to do this in the Django Admin video?
+  python manage.py addusername 
+  python manage.py adduser 
+* python manage.py createsuperuser
+  python config.py createadmin
+
+4. A view takes an HTTP request and returns an HTTP response. The HTTP response can be a string, a JSON/XML file, or an HTML page with what response status?
+  Success status
+  Error status
+  Informational status 
+* All of the above
