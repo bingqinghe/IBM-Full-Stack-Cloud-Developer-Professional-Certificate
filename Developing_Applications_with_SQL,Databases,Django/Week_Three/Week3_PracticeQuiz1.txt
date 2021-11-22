@@ -1,0 +1,1 @@
+Practice Quiz: MVC and Django MVT Pattern1. MVC design pattern includes three components. Which component routes requests?  View * Controller   Model   Access
