@@ -1,1 +1,61 @@
-Graded Quiz: Full-stack Django Development1. What else does the Django template contain besides Python code?  Dynamic HTML elements  Markdown elements* Static HTML elements  XML elements2. Three files are created by Django after you've created a project. Which of these files is a command-line interface used to interact with the Django project?  settings.py  urls.py   access.py* manage.py3. For the onlinecourse example, when registering the course and instructor models in the Django admin site, you would write and run "admin.site.register(Course)" and what other code statements?  admin.site.register(Superuser)  admin.site.register(Admin)* admin.site.register(Instructor)  admin.site.register(App) 4. When you map a URL to the course view, what file do you add path objects to?  config.py  manage.py  settings.py * urls.py5. Django template files display content, such as course names and descriptions. How is the content displayed?  Markdown  Plain text* HTML  XML6. Which is one of the differences between the Django MVT and the MVC design pattern?  MVC has a Model* The Django framework or Django server itself acts as controller  There is no difference  MVT has a View7. What two development tasks need to be performed to manage and determine which data will be presented to the UI?  Sort data and sort views  Access data and build tables* Model data and create views  Control the project8. Which command is used in the Django Admin video to start the server?  python manage.py startserver  python manage.py startDjango* python manage.py runserver  python manage.py run9. Django functions, like View, accept arguments as input and return something. Typically, View needs an HTTP request object as the first argument. What does this request object contain?  Python scripts* Read-only HTTP metadata  Django static files  Python commands10. Django template file structure sometimes has two files created with the same name. How do you ensure Django points to the correct file?  Add an identifier  Note the differences* Name spacing  Add metadata
+Graded Quiz: Full-stack Django Development
+
+1. What else does the Django template contain besides Python code?
+  Dynamic HTML elements
+  Markdown elements
+* Static HTML elements
+  XML elements
+
+2. Three files are created by Django after you've created a project. Which of these files is a command-line interface used to interact with the Django project?
+  settings.py
+  urls.py 
+  access.py
+* manage.py
+
+3. For the onlinecourse example, when registering the course and instructor models in the Django admin site, you would write and run "admin.site.register(Course)" and what other code statements?
+  admin.site.register(Superuser)
+  admin.site.register(Admin)
+* admin.site.register(Instructor)
+  admin.site.register(App) 
+
+4. When you map a URL to the course view, what file do you add path objects to?
+  config.py
+  manage.py
+  settings.py 
+* urls.py
+
+5. Django template files display content, such as course names and descriptions. How is the content displayed?
+  Markdown
+  Plain text
+* HTML
+  XML
+
+6. Which is one of the differences between the Django MVT and the MVC design pattern?
+  MVC has a Model
+* The Django framework or Django server itself acts as controller
+  There is no difference
+  MVT has a View
+
+7. What two development tasks need to be performed to manage and determine which data will be presented to the UI?
+  Sort data and sort views
+  Access data and build tables
+* Model data and create views
+  Control the project
+
+8. Which command is used in the Django Admin video to start the server?
+  python manage.py startserver
+  python manage.py startDjango
+* python manage.py runserver
+  python manage.py run
+
+9. Django functions, like View, accept arguments as input and return something. Typically, View needs an HTTP request object as the first argument. What does this request object contain?
+  Python scripts
+* Read-only HTTP metadata
+  Django static files
+  Python commands
+
+10. Django template file structure sometimes has two files created with the same name. How do you ensure Django points to the correct file?
+  Add an identifier
+  Note the differences
+* Name spacing
+  Add metadata
