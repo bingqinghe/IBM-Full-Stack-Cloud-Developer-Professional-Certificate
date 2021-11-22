@@ -42,7 +42,7 @@ Gain knowledge about using Django Model APIs to manipulate objects in databases 
 
 Explore the many useful methods Django Model provides to handle related objects.
 
-## Week Three: Full-stack Django Development
+## Week Three: [Full-stack Django Development](./Week_Three)
 It’s time to build your skills by creating a Django web app. In this module, you’ll explore the Django Model- View- Template design pattern and learn how Django models, views, and templates work together to present data on a website.
 
 You’ll look at a typical Django development process, starting with building a Django project and creating and adding an app. 
