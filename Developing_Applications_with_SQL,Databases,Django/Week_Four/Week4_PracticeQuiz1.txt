@@ -1,0 +1,1 @@
+Practice Quiz: Class-based and Generic Views1. Which view was the original implemented view in Django?  Feature-based view  Expression-based view  Class-based view* Function-based view
