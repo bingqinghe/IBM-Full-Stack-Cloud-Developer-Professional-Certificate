@@ -61,7 +61,7 @@ Create a Django view to receive an HTTP request and send an HTTP response.
 
 Discover how to combine Django views and templates to present your data as dynamic web pages.
 
-## Week Four: Consolidate and Deploy Your Django App
+## Week Four: [Consolidate and Deploy Your Django App](./Week_Four)
 Add to your Django skills by building a class-based view. Then, learn how to speed up development using Django’s generic-based views.
 
 Next, you’ll learn about authentication and authorization in Django. 
