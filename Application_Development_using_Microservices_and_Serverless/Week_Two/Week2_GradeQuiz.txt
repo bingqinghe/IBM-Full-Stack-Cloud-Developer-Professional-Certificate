@@ -1,0 +1,59 @@
+Graded Quiz: Introduction to Serverless
+
+1. What is one of the benefits that serverless computing provides?
+* Code runs on-demand as needed
+  Quick access to APIs 
+  All-in-one app development platform
+  Tools to help manage server operations
+
+2. How does FaaS package application code?
+  Microservices
+* Containers
+  API Gateways 
+  Requests
+
+3. In the What is Function as a Service video, a real-world example is shown where a user uploads a photo to a web site and creates a thumbnail image. Which action is performed by a function?
+  User uploads image
+* Thumbnail is created
+  Message is generated to user
+  User uploads thumbnail
+
+4. FaaS is considered the originating technology in the serverless category. Which part of the serverless stack does FaaS represent?
+  Data layer
+* Core compute and processing engine
+  Storage
+  Communication layer (e.g., messaging)
+
+5. In the serverless stack, which is considered part of the databases and storage layer?
+  Containers 
+* Object storage
+  Microservices
+  Functions
+
+6. IoT sensor data is often used with serverless computing.
+  False
+* True
+
+7. In the compute models comparison, which requires no administration?
+  PaaS
+  VMs 
+  Containers
+* FaaS
+
+8. Of the four compared compute models, which require the most maintenance?
+  PaaS and Containers
+  FaaS and Containers 
+* Containers and VMs
+  PaaS and VMs
+
+9. Which of the compared compute models has high availability built in?
+* FaaS
+  PaaS 
+  Containers
+  VMs
+
+10. A sequence is a chain of actions that are invoked in order. Why are actions invoked in order?
+  The order is determined by who called the function
+  REST APIs require orderly sequence of actions
+  Functions can only perform multiple actions 
+* Output of one action is passed as input to the next action
