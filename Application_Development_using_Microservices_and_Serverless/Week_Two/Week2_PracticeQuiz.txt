@@ -1,0 +1,31 @@
+Practice Quiz
+
+1. Who is responsible for common infrastructure management tasks in serverless computing?
+  Engineers 
+  End users
+  IT department
+* Cloud providers
+
+2. Which of the following best describes function as a service?
+* Event-driven computing model
+  Object storage
+  Application management
+  API management
+
+3. Serverless computing is a set of common attributes. Which attribute(s) is/are present in serverless computing?
+* Pay-per-use
+  Servers
+  Function as a service
+* No infrastructure management
+
+4. In the Comparing the FaaS Model video, what is one of the compute models that's compared with FaaS?
+  On-premises datacenter
+  Microservices 
+* PaaS
+  Functions
+
+5. Which of the following is a use case for serverless computing?
+  Eliminate servers
+  Provision VMs
+* Support microservices architecture
+  Orchestrate containers
