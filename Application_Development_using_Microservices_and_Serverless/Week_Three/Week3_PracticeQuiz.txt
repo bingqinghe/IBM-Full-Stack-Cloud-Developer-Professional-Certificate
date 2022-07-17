@@ -1,0 +1,29 @@
+Practice Quiz
+
+1. In the video example, a JavaScript file is provided to an ibmcloud CLI command to create what?
+  API gateway
+  Namespace
+  Function list
+* Action
+
+2. What can you use to explicitly pass parameter values when invoking actions through the CLI?
+* Parameter values in KEY VALUE format
+  You cannot explicitly pass parameter values when invoking actions through the CLI
+  ibmcloud fn action invoke parameter command
+* File containing parameter values in JSON format
+
+3. Parameter values can be defined at the package level so that all actions in a package inherit those parameter values.
+* True
+  False
+
+4. What command can you use to disable a rule?
+* ibmcloud fn rule disable <rulename>
+  ibmcloud fn disable rule
+  ibmcloud fn rule delete <rulename>
+  ibmcloud fn rule --disable <rulename>
+
+5. Which of the following are benefits of web actions?
+  Only web actions can be invoked without a trigger or a rule.
+  Web actions are type of action that is truly valid
+* Web actions are required to use the integrated API Gateway
+* Actions can be invoked from web apps using HTTP
