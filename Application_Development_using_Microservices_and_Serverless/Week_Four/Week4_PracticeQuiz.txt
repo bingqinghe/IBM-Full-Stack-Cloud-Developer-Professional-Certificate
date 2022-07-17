@@ -1,0 +1,31 @@
+Practice Quiz
+
+1. Red Hat OpenShift is a Kubernetes application platform. Where can Red Hat OpenShift run? 
+* On-premises 
+  On Red Hat infrastructure only
+* Public cloud  
+* Private cloud 
+
+2. Which of the following are features provided by Istio?
+* Observability of service behavior
+  Application development platform
+* Traffic management
+* Encryption of traffic between services
+
+3. What job does OpenShift create to automatically build microservices into containers? 
+  Atkins job 
+  Open-source job 
+  Container job  
+* Jenkins job 
+
+4. OpenShift enables use of third-party software to supplement solutions. Which are examples of third-party software that could be use?
+* Logging and monitoring solutions 
+  OpenShift
+  JSON 
+* Databases
+
+5. When you're ready to buy software, which are provided by Red Hat Marketplace?
+* Free trials
+* Real-time pricing 
+* Multiple payment options  
+* Billing and subscription 
