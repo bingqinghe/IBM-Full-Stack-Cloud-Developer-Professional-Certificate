@@ -1,0 +1,31 @@
+Practice Quiz: Introduction to MicroServices
+
+1. The twelve-factor application methodology can be grouped according to what phases of the software delivery lifecycle? Select all that apply.
+* Code
+* Operate 
+  Build
+* Deploy
+
+2. The third code factor, Factor 10: dev/prod parity, minimizes differences between development and production environments. Why is this factor necessary?
+  Development environment can be used as production in an emergency
+  Concludes development environment
+* Enables continuous delivery
+  Tests the code in both environments
+
+3. In the "What are Microservices?" video, the given example is of a ticketing agency that sells event tickets. One agency uses a monolith and another uses microservices, but both offer the same services. What is the biggest advantage for the microservices-based ticket agency application?
+  Automatic scaling
+  All teams can use the same technology stack
+* Independent, decoupled services
+  Smaller codebase overall
+
+4. What is the purposes of Microservices?
+* Decompose large applications into smaller applications
+  Decrease the overall codebase
+* Decouple app components so they are independent
+  Let an application be reused across an organization
+
+5. Which of the patterns for microservices helps manage the refactoring of monolithic apps in stages?
+* Strangler pattern
+  Backend for Frontend (BFF) 
+  Entity pattern
+  Single page application (SPA)
