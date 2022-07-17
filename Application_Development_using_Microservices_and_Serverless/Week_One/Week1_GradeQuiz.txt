@@ -1,0 +1,59 @@
+Graded Quiz: Introduction to MicroServices
+
+1. Modern software development often uses which of the following along with the twelve-factor application methodology? 
+  Monoliths
+  SaaS  
+  Databases deployed on VMs
+* Microservices 
+
+2. In Factor 5: Build, release, run, which stage launches the application's processes? 
+  Release  
+  Test 
+* Run 
+  Build 
+
+3. In the "What are Microservices?" video example, what happens when a service in the microservices system fails? 
+  That service is scaled up
+  The application completely fails and stop running 
+* The rest of the application should still be functional 
+  Developers build a new version of system  
+
+4. Which of the following are features of microservices?
+  Code is updated more slowly
+* Each service in container  
+* Different technology stacks per service
+* Services communicate via APIs
+
+5. In SOA, the graphical user interfaces are an orchestration layer that does what? 
+* Connect sequences of services to create complete business processes 
+  Create units of work  
+  Enable reuse of services across business processes 
+  Connects microservices together
+
+6. The main goal of both microservices and service-oriented architecture is to reuse services across an organization.
+  True
+* False
+
+7. In Factor 8: Concurrency, why do applications run concurrent processes? 
+  To handle logs  
+  To more easily work with backing services
+* To handle increased load 
+  All of the above 
+
+8. Which of the patterns for microservices loads one interface that never reloads? 
+  Backend for Frontend (BFF)  
+  Strangler pattern 
+* Single page application (SPA) 
+  Adapter microservices pattern  
+
+9. Which of the patterns for microservices enables customized user experiences for different channels like mobile and web?
+  Strangler pattern  
+  Single page application (SPA) 
+* Backend for Frontend (BFF) 
+  Aggregate pattern 
+
+10. Which microservices pattern includes three steps: transform, coexist, eliminate? 
+  Single page application (SPA)  
+  Service discovery pattern 
+* Strangler pattern 
+  Backend for Frontend (BFF) 
