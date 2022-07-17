@@ -1,0 +1,65 @@
+Graded Quiz: ORM: MicroServices w/ Serverless
+
+1. After creating an action, you must invoke the action so it can do its task. What are two modes for invoking actions?
+* Blocking and non-blocking
+  Activation and Activation record
+  Activation and activation ID
+  Request and response 
+
+2. What can you use to pass parameters to actions?
+* A JSON file and the param-file flag.
+  A JSON file and the param-required flag.
+  A JSON file and the object flag.
+  A JSON file and the place flag.
+
+3. What do you use to create sequence actions?
+* Existing actions
+  JavaScript
+  Sequence builders
+  Proxy actions 
+
+4. IBM Cloud Functions provides pre-installed libraries to call actions from other actions.
+* True
+  False, this can only be done using HTTP
+
+5. What is provided by public packages for IBM Cloud Functions?
+* Actions
+  Cloudant instances
+  Namespaces
+* Triggers feeds
+
+6. What command can you use to avoid passing the same parameters to an action every time? 
+  ibmcloud fn parameter bind
+* ibmcloud fn package bind
+  ibmcloud fn default parameter
+  ibmcloud fn package join
+
+7. How can you set default parameters for all entities in a package? 
+* Set package level parameters that are inherited by all actions
+  List parameters
+  Join actions
+  Sequence actions
+
+8. What can you use to configure an external event source to fire multiple trigger events?
+* Feed
+  Sequence action
+  Parameter 
+  Get command
+
+9. If you have already created an action and want to create a trigger to invoke this action, what three options must you include in the rule create command?
+  Rule ID, trigger ID, and action ID
+  Location of rule, name of trigger, and action 
+  Name of rule, location of trigger and action
+* Name of rule, trigger, and action
+
+10. Why would you expose actions as APIs rather than manually via command line or web console?
+  There is less chance of error
+  Actions exposed as APIs have better performance 
+* Actions called manually don't integrate well with microservices
+  Actions are invalid unless they are exposed as APIs
+
+11. What is one of the reasons to use the API Gateway service?
+* Perform request routing
+* Perform user authentication
+* Perform rate limiting
+  It's the only way to create web actions
