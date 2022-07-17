@@ -1,0 +1,57 @@
+Graded Quiz: OpenShift Essentials/Working with OpenShift and Istio
+
+1. OpenShift is a platform for running microservices. Which of the following are some of its features?
+* Orchestrate containerized workloads
+* Integrate with serverless architectures
+* Deploy cloud-native applications
+  Sell third-party software
+
+2. In the analogy given in the Red Hat OpenShift Recap video, which of the following is analagous to Kubernetes?
+  Ubuntu
+  Fedora
+  Debian
+* Linux kernel
+
+3. On which operating system do the nodes in the OpenShift master run?
+* Red Hat Enterprise Linux CoreOS
+  Debian
+  Red Hat Enterprise Linux
+  Ubuntu
+
+4. Istio doesn't encrypt traffic between services, because OpenShift does this already.
+* True
+  False
+
+5. What does a service mesh enable?
+* Troubleshooting
+* Traffic management
+* Secure service-to-service communication
+  Third-party software procurement
+
+6. After OpenShift builds code into a container image, what does it do?
+* Deploys them to the cluster
+  Adds them to a log
+  Classifies them according to projects
+* Pushes them to the internal registry
+
+7. What is the open-source project that powers OpenShift? 
+  OpenShift Kubernetes Distribution OSKD
+  Container Optimization Distribution COD
+* Origin Kubernetes Distribution OKD
+  Microservices Kubernetes Distribution MKD
+
+8. Red Hat Marketplace solves many concerns when choosing third-party software to use with OpenShift. What is one of these concerns according to the video?
+  How can I secure the software?
+  How can I learn OpenShift?
+* How can I deploy software?
+  How can I get a refund if the software doesn’t work?
+
+9. The Red Hat Marketplace provides a one-stop-shop for software certified for OpenShift. Which capabilities are provided by software products in the Marketplace?
+* Installation
+  OpenShift subscriptions
+* Seamless upgrades
+  Operations managers
+
+10. A service mesh is a dedicated layer that provides logging capabilities in an OpenShift cluster.
+* True
+  False
